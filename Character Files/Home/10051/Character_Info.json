@@ -1,0 +1,1144 @@
+{
+  "Character_Id": 10051,
+  "Dev_Name": "CH0182",
+  "Prefab_Name": "LobbyCH0182",
+  "Texture_Path": "Assets/_MX/AddressableAsset/UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_CH0182_01.png",
+  "BGM_Id": 131,
+  "Bundles": {
+    "Entries": [
+      {
+        "Region": 3,
+        "Platform": 2,
+        "Main_Bundle": "ui-uilobbyelement-_mxload-prefabs-2025-07-02_assets_all_2220493045.bundle",
+        "Resource_Bundle_List": [
+          "AssetBundles\\assets-_mx-spinelobbies-ch0182_home-_mxdependency-assets-2025-07-02_assets_all_2266990948.bundle",
+          "AssetBundles\\assets-_mx-spinelobbies-ch0182_home-_mxdependency-textassets-2025-07-02_assets_all_1658403736.bundle",
+          "AssetBundles\\assets-_mx-spinelobbies-ch0182_home-_mxdependency-materials-2025-07-02_assets_all_4206138066.bundle",
+          "AssetBundles\\assets-_mx-spinelobbies-ch0182_home-_mxdependency-textures-2025-07-02_assets_all_195847738.bundle",
+          "AssetBundles\\assets-_mx-spinelobbies-ch0182_home-_mxdependency-timelines-2025-07-02_assets_all_1269680819.bundle"
+        ],
+        "Dependency_Bundle_List": [
+          "MX_monoscripts_3981838347.bundle",
+          "prologdepengroup-assets-_mx-uis-atlas-_mxprolog-2025-07-02_assets_all_3359745090.bundle",
+          "assets-_mx-spinelobbies-_mxcommon-_mxdependency-assets-2025-07-02_assets_all_3657483517.bundle",
+          "assets-_mx-spinelobbies-_mxcommon-_mxdependency-materials-2025-07-02_assets_all_149539334.bundle",
+          "MX_unitybuiltinshaders_4156112658.bundle",
+          "assets-_mx-spinelobbies-_mxcommon-_mxdependency-textures-2025-07-02_assets_all_1219719739.bundle",
+          "assets-_mx-spinelobbies-_mxcommon-_mxdependency-audio-2025-07-02_assets_all_1236838282.bundle",
+          "prologgroup-assets-_mx-addressableasset-audio-sfx_common-_mxprolog-2025-07-02_assets_all_2363618612.bundle",
+          "assets-spine-runtime-spine-unity-_mxdependency-shaders-2025-07-02_assets_all_3030702201.bundle",
+          "prologgroup-assets-_mx-addressableasset-audio-audiomixer-_mxprolog-2025-07-02_assets_all_2266188573.bundle",
+          "prologdepengroup-assets-_mx-shaders-_mxprolog-2025-07-02_assets_all_222426929.bundle",
+          "audio-sfx_ui-_mxload-audio-2025-07-02_assets_all_3611902421.bundle",
+          "prologdepengroup-assets-ngui-resources-shaders-_mxprolog-2025-07-02_assets_all_1067322330.bundle",
+          "audio-sfx_backgroundeffect-_mxload-audio-2025-07-02_assets_all_4023696992.bundle",
+          "audio-sfx_scenarioeffect-_mxload-audio-2025-07-02_assets_all_4238666793.bundle"
+        ]
+      }
+    ]
+  },
+  "Audios": {
+    "Entries": [
+      {
+        "Region": 3,
+        "Audio_Path_List": [
+          "MediaResources\\Audio\\VOC_JP\\ch0182_memoriallobby_1_1.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0182_memoriallobby_1_2.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0182_memoriallobby_2_1.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0182_memoriallobby_2_2.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0182_memoriallobby_3.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0182_memoriallobby_4_1.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0182_memoriallobby_4_2.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0182_memoriallobby_5.ogg"
+        ]
+      }
+    ]
+  },
+  "Subtitles": {
+    "Entries": [
+      {
+        "Region": 3,
+        "CharacterDialogInfo_List": [
+          {
+            "CharacterId": 10051,
+            "CostumeUniqueId": 1005101,
+            "DisplayOrder": 310,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 1,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 4250,
+            "LocalizeKR": "플레이, 플레이! 밀레니엄!",
+            "LocalizeJP": "フレー！フレー！\nミレニアム！",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle1",
+            "AnimationName": "Talk_01_M",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 10051,
+            "CostumeUniqueId": 1005101,
+            "DisplayOrder": 320,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 1,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 8250,
+            "LocalizeKR": "싸워라! 이겨라! 밀레니엄!",
+            "LocalizeJP": "行け！行け！勝て！勝て！\nミレニアム！",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle1",
+            "AnimationName": "",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 10051,
+            "CostumeUniqueId": 1005101,
+            "DisplayOrder": 330,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 2,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 6400,
+            "LocalizeKR": "후후… 어때, 선생님?\n대단한 광경이라고\n생각되지 않아?",
+            "LocalizeJP": "ふふ… どうだい、先生？\nすごい光景だと思わないか？",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle2",
+            "AnimationName": "Talk_02_M",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 10051,
+            "CostumeUniqueId": 1005101,
+            "DisplayOrder": 340,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 2,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 5200,
+            "LocalizeKR": "이 매스게임에는\n신형 블루투스 장치를\n탑재한 로봇을\n사용하고 있기 때문에,",
+            "LocalizeJP": "このマスゲームには、\n新型ブルートゥース装置を\n搭載したロボットを\n使用しているから、",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle2",
+            "AnimationName": "",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 10051,
+            "CostumeUniqueId": 1005101,
+            "DisplayOrder": 350,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 2,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 10400,
+            "LocalizeKR": "아무리 복잡한 군무라도\n완벽하게 연출할 수 있어.",
+            "LocalizeJP": "どんなに複雑な振付でも\n完璧に演出する\nことができるんだ。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle2",
+            "AnimationName": "",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 10051,
+            "CostumeUniqueId": 1005101,
+            "DisplayOrder": 360,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 3,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 12500,
+            "LocalizeKR": "…응?\n연출에 기계를 사용할 거라면\n전광판을 설치하는 게\n더 효율적이지 않겠느냐고?",
+            "LocalizeJP": "…うん？演出に機械を\n使用するぐらいなら、\nスクリーンを設置したほうが\n効率的なのではないのかって？",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle3",
+            "AnimationName": "Talk_03_M",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 10051,
+            "CostumeUniqueId": 1005101,
+            "DisplayOrder": 370,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 4,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 5300,
+            "LocalizeKR": "선생님,\n낭만이 없는 이야기는\n하지 말아줘.",
+            "LocalizeJP": "先生、\nロマンのない話は\n辞めたまえ。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle4",
+            "AnimationName": "Talk_04_M",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 10051,
+            "CostumeUniqueId": 1005101,
+            "DisplayOrder": 380,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 4,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 3800,
+            "LocalizeKR": "아날로그 패널이\n동시에 펼쳐지며\n완성하는 풍경에는",
+            "LocalizeJP": "アナログのパネルが一斉に\n動いて完成される光景には、",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle4",
+            "AnimationName": "",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 10051,
+            "CostumeUniqueId": 1005101,
+            "DisplayOrder": 390,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 4,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 8800,
+            "LocalizeKR": "전광판은 비교도\n되지 않을 정도의\n박력과 감동이 있으니까.",
+            "LocalizeJP": "スクリーンとは比べ物に\nならないほどの迫力と\n感動があるんだよ。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle4",
+            "AnimationName": "",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 10051,
+            "CostumeUniqueId": 1005101,
+            "DisplayOrder": 400,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 5,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 11500,
+            "LocalizeKR": "본래 사람의 가슴을 뛰게\n만드는 로망은 효율과는\n거리가 먼 법이거든.",
+            "LocalizeJP": "元来、胸高鳴る瞬間を\n与えるロマンは、「効率」とは\n程遠いものだからね。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle5",
+            "AnimationName": "Talk_05_M",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          }
+        ],
+        "ScenarioScriptExcel_List": [
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 112
+            },
+            "GroupId": 1005103,
+            "SelectionGroup": 0,
+            "BGMId": 131,
+            "Sound": "",
+            "Transition": 2482233134,
+            "BGName": 3131973837,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#all;hide",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1005103,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;19000",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 256
+            },
+            "GroupId": 1005103,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 894842697,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;[wa:1050]― 플레이, [wa:750]플레이! [wa:900]밀레니엄!",
+            "TextJp": "[wa:1050]― フレー！[wa:750]フレー！[wa:900]ミレニアム！",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1005103,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;1700",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1005103,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 240
+            },
+            "GroupId": 1005103,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;― 싸워라! [wa:550]이겨라! [wa:650]밀레니엄!",
+            "TextJp": "― 行け！行け！[wa:550]勝て！勝て！[wa:650]ミレニアム！",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1005103,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;5500",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1005103,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 248
+            },
+            "GroupId": 1005103,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 1617949149,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;[wa:200]― 후후…… [wa:1300]어때, [wa:650]선생님?",
+            "TextJp": "[wa:200]― ふふ…… [wa:1100]どうだい、[wa:650]先生？",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1005103,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;1400",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 208
+            },
+            "GroupId": 1005103,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-630];serial;60;― 대단한 광경이라고 생각되지 않아?",
+            "TextJp": "― すごい光景だと思わないか？",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1005103,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;2650",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1005103,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 256
+            },
+            "GroupId": 1005103,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;― 이 매스게임에는 [wa:1000]신형 블루투스 장치를",
+            "TextJp": "― このマスゲームには、[wa:1000]新型ブルートゥース装置を",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1005103,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;1000",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 248
+            },
+            "GroupId": 1005103,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-630];serial;60;[wa:50]― 탑재한 로봇을 [wa:750]사용하고 있기 때문에,",
+            "TextJp": "― 搭載したロボットを[wa:750]使用しているから、",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1005103,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;950",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1005103,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 184
+            },
+            "GroupId": 1005103,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;― 아무리 복잡한 군무라도",
+            "TextJp": "― どんなに複雑な振付でも",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1005103,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;1100",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 232
+            },
+            "GroupId": 1005103,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-630];serial;60;[wa:100]― 완벽하게 [wa:200]연출할 수 있어.",
+            "TextJp": "― 完璧に[wa:300]演出することができるんだ。",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1005103,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;7000",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1005103,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 168
+            },
+            "GroupId": 1005103,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 854148956,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;[wa:100]― ……응?",
+            "TextJp": "[wa:100]― ……うん？",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1005103,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;1100",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 224
+            },
+            "GroupId": 1005103,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-630];serial;60;― 연출에 기계를 [wa:1050]사용할 거라면",
+            "TextJp": "― 演出に機械を[wa:950]使用するぐらいなら、",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1005103,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;1250",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1005103,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 192
+            },
+            "GroupId": 1005103,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;― 전광판을 설치하는 게",
+            "TextJp": "― スクリーンを設置したほうが",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1005103,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;1100",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 200
+            },
+            "GroupId": 1005103,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-630];serial;60;― 더 효율적이지 않겠느냐고?",
+            "TextJp": "― 効率的なのではないのかって？",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1005103,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;6500",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1005103,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 272
+            },
+            "GroupId": 1005103,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 1544949625,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;[wa:850]― 선생님, [wa:1050]낭만이 없는 이야기는 하지 말아줘.",
+            "TextJp": "[wa:850]― 先生、[wa:1150]ロマンのない話は辞めたまえ。",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1005103,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;3200",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 280
+            },
+            "GroupId": 1005103,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-630];serial;60;― 아날로그 패널이 [wa:650]동시에 펼쳐지며 완성하는 풍경에는",
+            "TextJp": "― アナログのパネルが[wa:650]一斉に動いて完成される光景には、",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1005103,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;2700",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1005103,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 152
+            },
+            "GroupId": 1005103,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;― 전광판은",
+            "TextJp": "― スクリーンとは",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1005103,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;500",
+            "TextJp": " ",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 272
+            },
+            "GroupId": 1005103,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-630];serial;60;― 비교도 되지 않을 정도의 [wa:950]박력과 감동이 있으니까.",
+            "TextJp": "― 比べ物にならないほどの[wa:1250]迫力と感動があるんだよ。",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1005103,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;6500",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1005103,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 272
+            },
+            "GroupId": 1005103,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 291259433,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;[wa:800]― 본래 [wa:750]사람의 가슴을 뛰게 만드는 로망은",
+            "TextJp": "[wa:800]― 元来、[wa:700]胸高鳴る瞬間を与えるロマンは、",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1005103,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;2600",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 224
+            },
+            "GroupId": 1005103,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-630];serial;60;― 효율과는 [wa:450]거리가 먼 법이거든.",
+            "TextJp": "― 「効率」とは[wa:450]程遠いものだからね。",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1005103,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;7000",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 112
+            },
+            "GroupId": 1005103,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 2482233134,
+            "BGName": 1193462697,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#all;hide\n#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          }
+        ]
+      }
+    ]
+  }
+}

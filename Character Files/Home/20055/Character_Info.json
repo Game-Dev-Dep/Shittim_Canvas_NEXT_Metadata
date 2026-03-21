@@ -1,0 +1,1000 @@
+{
+  "Character_Id": 20055,
+  "Dev_Name": "CH0336",
+  "Prefab_Name": "LobbyCH0336",
+  "Texture_Path": "Assets/_MX/AddressableAsset/UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_CH0336_01.png",
+  "BGM_Id": 239,
+  "Bundles": {
+    "Entries": [
+      {
+        "Region": 3,
+        "Platform": 2,
+        "Main_Bundle": "ui-uilobbyelement-_mxload-prefabs-2026-01-26_assets_all_773411287.bundle",
+        "Resource_Bundle_List": [
+          "AssetBundles\\assets-_mx-spinelobbies-ch0336_home-_mxdependency-assets-2026-01-26_assets_all_2788024180.bundle",
+          "AssetBundles\\assets-_mx-spinelobbies-ch0336_home-_mxdependency-materials-2026-01-26_assets_all_1678217818.bundle",
+          "AssetBundles\\assets-_mx-spinelobbies-ch0336_home-_mxdependency-timelines-2026-01-26_assets_all_1840799925.bundle",
+          "AssetBundles\\assets-_mx-spinelobbies-ch0336_home-_mxdependency-textures-2026-01-26_assets_all_268564215.bundle",
+          "AssetBundles\\assets-_mx-spinelobbies-ch0336_home-_mxdependency-textassets-2026-01-26_assets_all_2800418274.bundle"
+        ],
+        "Dependency_Bundle_List": [
+          "MX_monoscripts_3981838347.bundle",
+          "assets-_mx-spinelobbies-_mxcommon-_mxdependency-materials-2025-07-02_assets_all_149539334.bundle",
+          "assets-_mx-spinelobbies-_mxcommon-_mxdependency-assets-2025-07-02_assets_all_3657483517.bundle",
+          "prologdepengroup-assets-_mx-uis-atlas-_mxprolog-2025-07-02_assets_all_3359745090.bundle",
+          "assets-_mx-spinelobbies-_mxcommon-_mxdependency-audio-2025-07-02_assets_all_1236838282.bundle",
+          "assets-_mx-spinelobbies-_mxcommon-_mxdependency-textures-2025-07-02_assets_all_1219719739.bundle",
+          "prologgroup-assets-_mx-addressableasset-audio-audiomixer-_mxprolog-2025-07-02_assets_all_2266188573.bundle",
+          "assets-_mx-shaders-_mxdependency-shaders-2025-07-02_assets_all_3046151907.bundle",
+          "prologdepengroup-assets-_mx-shaders-_mxprolog-2025-07-02_assets_all_222426929.bundle",
+          "assets-_mx-spinelobbies-_mxcommon-_mxdependency-audio-2026-01-26_assets_all_3581779146.bundle",
+          "audio-sfx_ui-_mxload-audio-2025-07-02_assets_all_3611902421.bundle",
+          "prologdepengroup-assets-ngui-resources-shaders-_mxprolog-2025-07-02_assets_all_1067322330.bundle",
+          "MX_unitybuiltinshaders_4156112658.bundle"
+        ]
+      }
+    ]
+  },
+  "Audios": {
+    "Entries": [
+      {
+        "Region": 3,
+        "Audio_Path_List": [
+          "MediaResources\\Audio\\VOC_JP\\ch0336_memoriallobby_1_1.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0336_memoriallobby_1_2.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0336_memoriallobby_2_1.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0336_memoriallobby_2_2.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0336_memoriallobby_3_1.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0336_memoriallobby_3_2.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0336_memoriallobby_4_1.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0336_memoriallobby_4_2.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0336_memoriallobby_5_1.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0336_memoriallobby_5_2.ogg"
+        ]
+      }
+    ]
+  },
+  "Subtitles": {
+    "Entries": [
+      {
+        "Region": 3,
+        "CharacterDialogInfo_List": [
+          {
+            "CharacterId": 20055,
+            "CostumeUniqueId": 2005501,
+            "DisplayOrder": 340,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 1,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 6130,
+            "LocalizeKR": "이곳을 보세요, 선생님.",
+            "LocalizeJP": "見てください、先生。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle1",
+            "AnimationName": "Talk_01_M",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 20055,
+            "CostumeUniqueId": 2005501,
+            "DisplayOrder": 350,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 1,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 9370,
+            "LocalizeKR": "제가 지켜낸 세계예요.",
+            "LocalizeJP": "わたしが守り抜いた世界です。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle1",
+            "AnimationName": "",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 20055,
+            "CostumeUniqueId": 2005501,
+            "DisplayOrder": 360,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 2,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 5100,
+            "LocalizeKR": "……물론 알고 있어요.",
+            "LocalizeJP": "……もちろん、分かっています。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle2",
+            "AnimationName": "Talk_02_M",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 20055,
+            "CostumeUniqueId": 2005501,
+            "DisplayOrder": 370,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 2,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 10430,
+            "LocalizeKR": "지금 이 풍경을 본 사람이,\n저만은 아니라는 걸.",
+            "LocalizeJP": "この光景を見たのは、\nわたしだけじゃないって。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle2",
+            "AnimationName": "",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 20055,
+            "CostumeUniqueId": 2005501,
+            "DisplayOrder": 380,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 3,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 6670,
+            "LocalizeKR": "저번 게임 대회 때\n이런 말씀을 해주셨었죠.",
+            "LocalizeJP": "大会の時、\nこんなことを仰いましたよね。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle3",
+            "AnimationName": "Talk_03_M",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 20055,
+            "CostumeUniqueId": 2005501,
+            "DisplayOrder": 390,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 3,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 13660,
+            "LocalizeKR": "지금 이 순간이,\n이 게임이,\n우리들의 현실이라고.",
+            "LocalizeJP": "今この瞬間が、\nゲームが。\nわたしたちの現実だって。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle3",
+            "AnimationName": "",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 20055,
+            "CostumeUniqueId": 2005501,
+            "DisplayOrder": 400,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 4,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 7950,
+            "LocalizeKR": "그러니, 설령 엔딩이\n정해진 세계라고 하더라도",
+            "LocalizeJP": "だから、たとえエンディングの\n決まった世界だとしても……。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle4",
+            "AnimationName": "Talk_04_M",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 20055,
+            "CostumeUniqueId": 2005501,
+            "DisplayOrder": 410,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 4,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 2350,
+            "LocalizeKR": "이 세계의 모두가,",
+            "LocalizeJP": "この世界のみんなが、",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle4",
+            "AnimationName": "",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 20055,
+            "CostumeUniqueId": 2005501,
+            "DisplayOrder": 420,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 4,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 7330,
+            "LocalizeKR": "같은 시나리오를\n걷는다 하더라도",
+            "LocalizeJP": "同じシナリオを\n歩むとしても……。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle4",
+            "AnimationName": "",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 20055,
+            "CostumeUniqueId": 2005501,
+            "DisplayOrder": 430,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 5,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 7400,
+            "LocalizeKR": "제가 내렸던 선택들은,\n이 감정은…….",
+            "LocalizeJP": "わたしがした選択、\nこの感情は……。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle5",
+            "AnimationName": "Talk_05_M",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 20055,
+            "CostumeUniqueId": 2005501,
+            "DisplayOrder": 440,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 5,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 10460,
+            "LocalizeKR": "틀림없이, 진짜일 거예요.",
+            "LocalizeJP": "間違いなく、本物なんです。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle5",
+            "AnimationName": "",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          }
+        ],
+        "ScenarioScriptExcel_List": [
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 112
+            },
+            "GroupId": 2005506,
+            "SelectionGroup": 0,
+            "BGMId": 239,
+            "Sound": "",
+            "Transition": 3785883235,
+            "BGName": 4201053427,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#all;hide",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 2005506,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;19667",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 280
+            },
+            "GroupId": 2005506,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 3342277776,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;[wa:3200]― [log=유즈 결전]이곳을 보세요,[wa:1350]선생님.[/log]",
+            "TextJp": "[wa:3200]― [log=유즈 결전]見てください、[wa:1430]先生。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 2005506,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;2120",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 264
+            },
+            "GroupId": 2005506,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-630];serial;60;― [log=유즈 결전]제가 지켜낸 [wa:1230]세계예요.[/log]",
+            "TextJp": "― [log=유즈 결전]わたしが守り抜いた[wa:1150]世界です。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 2005506,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;6980",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 2005506,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 288
+            },
+            "GroupId": 2005506,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 763879542,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;[wa:1700]― [log=유즈 결전]……물론 [wa:1030]알고 있어요. [/log]",
+            "TextJp": "[wa:1700]― [log=유즈 결전]……もちろん、[wa:950]分かっています。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 2005506,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;2170",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 352
+            },
+            "GroupId": 2005506,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-630];serial;60;― [log=유즈 결전]지금 이 풍경을 [wa:700]본 사람이 [wa:1570]저만은 아니라는 [wa:1200]걸. [/log]",
+            "TextJp": "― [log=유즈 결전]この光景を、[wa:820]見たのは[wa:1650]わたしだけじゃない[wa:1200]って。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 2005506,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;6200",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 2005506,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 360
+            },
+            "GroupId": 2005506,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 252612683,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;[wa:810]― [log=유즈 결전]저번 게임 대회 때 [wa:1850]이런 말씀을 [wa:1020]해주셨었죠.[wa:40] [/log]",
+            "TextJp": "[wa:810]― [log=유즈 결전]大会の時、[wa:2090]こんなことを[wa:1060]仰いましたよね。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 2005506,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;2630",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 368
+            },
+            "GroupId": 2005506,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-630];serial;60;― [log=유즈 결전]지금 이 순간이, [wa:2440]이 게임이, [wa:1760]우리들의 현실[wa:1990]이라고.[/log]",
+            "TextJp": "― [log=유즈 결전]今この瞬間が、[wa:2560]ゲームが。[wa:1840]わたしたちの現実だ[wa:1910]って。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 2005506,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;6510",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 2005506,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 392
+            },
+            "GroupId": 2005506,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 4114197090,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;[wa:780]― [log=유즈 결전]그러니, [wa:2290]설령 [wa:1030]엔딩이 정해진 [wa:950]세계라고 하더라도 [/log]",
+            "TextJp": "[wa:780]― [log=유즈 결전]だから、[wa:2330]たとえ[wa:1030]エンディングの決まった[wa:830]世界だとしても……。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 2005506,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;2360",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 352
+            },
+            "GroupId": 2005506,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-630];serial;60;― [log=유즈 결전]이 세계의 [wa:610]모두가, [wa:1570]같은 시나리오를 걷는다 하더라도[/log]",
+            "TextJp": "― [log=유즈 결전]この世界の[wa:650]みんなが、[wa:1570]同じシナリオを歩むとしても……。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 2005506,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;7460",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 2005506,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 336
+            },
+            "GroupId": 2005506,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 1505345866,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;[wa:890]― [log=유즈 결전]제가 내렸던 선택들은, [wa:2680]이 [wa:370]감정은…….[/log]",
+            "TextJp": "[wa:890]― [log=유즈 결전]わたしがした選択、[wa:2840]この[wa:370]感情は……。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 2005506,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;3040",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 264
+            },
+            "GroupId": 2005506,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-630];serial;60;― [log=유즈 결전]틀림없이, [wa:2670]진짜일 거예요.[/log]",
+            "TextJp": "― [log=유즈 결전]間違いなく、[wa:2670]本物なんです。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 2005506,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;8500",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 128
+            },
+            "GroupId": 2005506,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 2482233134,
+            "BGName": 1194944144,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "3;유즈 결전;03\n#3;a\n#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 248
+            },
+            "GroupId": 2005506,
+            "SelectionGroup": 0,
+            "BGMId": 999,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "[ns]\"그러고 보니 유즈, 이젠 그 옷이 제법 마음에 들었나 봐?\"",
+            "TextJp": "[ns] \"そういえばユズ、その服、気に入ったんだね。\"",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 152
+            },
+            "GroupId": 2005506,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "3;유즈 결전;02;예? 옷이라니 무슨…….",
+            "TextJp": "え？服……？",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 160
+            },
+            "GroupId": 2005506,
+            "SelectionGroup": 0,
+            "BGMId": 268,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "3;유즈 결전;08;……아.\n#3;em;[!]",
+            "TextJp": "あ、ああっ……！？",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 224
+            },
+            "GroupId": 2005506,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "3;유즈 결전;10;그, 그, 그, 그게……! 이건……!\n#3;em;[///]",
+            "TextJp": "そ、そ、そういうわけでは……！#nこれは……！",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 232
+            },
+            "GroupId": 2005506,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "3;유즈 결전;04;그, 그, 그저 이 게임에 제일 적합한 복장이니까요……!",
+            "TextJp": "このゲームに、向いているだけで……！",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 208
+            },
+            "GroupId": 2005506,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "SE_Cartoon_02",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "3;유즈 결전;06;그, 그런 이유일 뿐이에요!\n#3;jump",
+            "TextJp": "ほ、本当に、それだけなんです！",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 240
+            },
+            "GroupId": 2005506,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "3;유즈 결전;10;세계를 구하는 데 수단 방법을 가릴 수는 없잖아요……!",
+            "TextJp": "世界を救うのに、手段は選べませんから……！",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 136
+            },
+            "GroupId": 2005506,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "[ns](흐뭇)",
+            "TextJp": "[ns] （満足げに微笑む）",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 208
+            },
+            "GroupId": 2005506,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "SE_Cartoon_01",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "3;유즈 결전;06;우, 웃지 마세요……!\n#3;closeup\n#3;hophop",
+            "TextJp": "わ、笑わないでください……！",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 104
+            },
+            "GroupId": 2005506,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 2482233134,
+            "BGName": 1047754314,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#all;hide",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 264
+            },
+            "GroupId": 2005506,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#na;(이후, 유즈와 함께 평화로워진 세계를 한참 더 둘러보았다.)",
+            "TextJp": "（その後、ユズと一緒に平和になった世界をしばらく見て回った）",
+            "VoiceId": 0
+          }
+        ]
+      }
+    ]
+  }
+}

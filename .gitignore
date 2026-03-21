@@ -1,0 +1,20 @@
+# 忽略所有文件
+*
+
+# 放行进入目录
+!*/
+
+# 放行 .gitignore 文件
+!.gitignore
+
+# 放行所有类型角色的元数据文件
+!Character Files/**/Character_Info.json
+
+# 放行官方的 BGM 信息文件
+!Common Files/TableBundles/JP/Windows/BGMPlayInfo.json
+
+# 放行自制的 BGM 元数据信息文件
+!Config Files/BGM_Meta_Info_Config.json
+
+# 放行自制的所有类型角色元数据信息文件
+!Config Files/Character_Info_Config.json

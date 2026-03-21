@@ -1,0 +1,32 @@
+{
+  "Scenario_Id": 6200001,
+  "Prefab_Name": "SC62000_01",
+  "Bundles": {
+    "Entries": [
+      {
+        "Region": 3,
+        "Platform": 2,
+        "Main_Bundle": "ui-uilobbyelement-_mxload-prefabs-2025-08-26_assets_all_24701133.bundle",
+        "Resource_Bundle_List": [
+          "AssetBundles\\assets-_mx-spinebackground-spinebg-_mxdependency-materials-2025-08-26_assets_all_1563136362.bundle",
+          "AssetBundles\\assets-_mx-spinebackground-spinebg-_mxdependency-assets-2025-08-26_assets_all_3569694437.bundle",
+          "AssetBundles\\assets-_mx-spinebackground-spinebg-_mxdependency-timelines-2025-08-26_assets_all_706548734.bundle",
+          "AssetBundles\\assets-_mx-spinebackground-spinebg-_mxdependency-textures-2025-08-26_assets_all_3103708156.bundle",
+          "AssetBundles\\assets-_mx-spinebackground-spinebg-_mxdependency-textassets-2025-08-26_assets_all_2378636888.bundle"
+        ],
+        "Dependency_Bundle_List": [
+          "MX_monoscripts_3981838347.bundle",
+          "assets-_mx-spinelobbies-_mxcommon-_mxdependency-materials-2025-07-02_assets_all_149539334.bundle",
+          "prologdepengroup-assets-_mx-uis-atlas-_mxprolog-2025-07-02_assets_all_3359745090.bundle",
+          "assets-_mx-spinelobbies-_mxcommon-_mxdependency-textures-2025-07-02_assets_all_1219719739.bundle",
+          "prologgroup-assets-_mx-addressableasset-audio-audiomixer-_mxprolog-2025-07-02_assets_all_2266188573.bundle",
+          "assets-_mx-shaders-_mxdependency-shaders-2025-07-02_assets_all_3046151907.bundle",
+          "prologdepengroup-assets-_mx-shaders-_mxprolog-2025-07-02_assets_all_222426929.bundle",
+          "prologdepengroup-assets-ngui-resources-shaders-_mxprolog-2025-07-02_assets_all_1067322330.bundle",
+          "MX_unitybuiltinshaders_4156112658.bundle",
+          "assets-_mx-spinelobbies-_mxcommon-_mxdependency-assets-2025-07-02_assets_all_3657483517.bundle"
+        ]
+      }
+    ]
+  }
+}

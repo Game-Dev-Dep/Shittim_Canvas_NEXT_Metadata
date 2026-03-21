@@ -1,0 +1,56 @@
+{
+  "Character_Id": 1300801,
+  "Dev_Name": "Serika_multi",
+  "Prefab_Name": "LobbySerika_multi",
+  "Texture_Path": "Assets/_MX/AddressableAsset/UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_Serika_02.png",
+  "BGM_Id": 12,
+  "Bundles": {
+    "Entries": [
+      {
+        "Region": 3,
+        "Platform": 2,
+        "Main_Bundle": "ui-uilobbyelement-_mxload-prefabs-2025-07-02_assets_all_742544317.bundle",
+        "Resource_Bundle_List": [
+          "AssetBundles\\assets-_mx-spinelobbies-lobbyserika_multi-_mxdependency-assets-2025-07-02_assets_all_3964551116.bundle",
+          "AssetBundles\\assets-_mx-spinelobbies-lobbyserika_multi-_mxdependency-timelines-2025-07-02_assets_all_2641774055.bundle",
+          "AssetBundles\\assets-_mx-spinelobbies-lobbyserika_multi-_mxdependency-materials-2025-07-02_assets_all_1628181462.bundle",
+          "AssetBundles\\assets-_mx-spinelobbies-lobbyserika_multi-_mxdependency-textassets-2025-07-02_assets_all_413187949.bundle",
+          "AssetBundles\\assets-_mx-spinelobbies-lobbyserika_multi-_mxdependency-textures-2025-07-02_assets_all_331509370.bundle"
+        ],
+        "Dependency_Bundle_List": [
+          "MX_monoscripts_3981838347.bundle",
+          "assets-_mx-spinelobbies-lobbyshiroko_multi-_mxdependency-materials-2025-07-02_assets_all_206608987.bundle",
+          "assets-_mx-spinelobbies-lobbyshiroko_multi-_mxdependency-meshes-2025-07-02_assets_all_2693985644.bundle",
+          "prologdepengroup-assets-_mx-uis-atlas-_mxprolog-2025-07-02_assets_all_3359745090.bundle",
+          "assets-_mx-spinelobbies-_mxcommon-_mxdependency-assets-2025-07-02_assets_all_3657483517.bundle",
+          "assets-_mx-spinelobbies-_mxcommon-_mxdependency-textures-2025-07-02_assets_all_1219719739.bundle",
+          "assets-_mx-cafe-misc-my_event062_icepool-_mxdependency-textures-2025-07-02_assets_all_3863674002.bundle",
+          "prologgroup-assets-_mx-addressableasset-audio-audiomixer-_mxprolog-2025-07-02_assets_all_2266188573.bundle",
+          "assets-_mx-shaders-_mxdependency-shaders-2025-07-02_assets_all_3046151907.bundle",
+          "prologdepengroup-assets-_mx-shaders-_mxprolog-2025-07-02_assets_all_222426929.bundle",
+          "prologdepengroup-assets-ngui-resources-shaders-_mxprolog-2025-07-02_assets_all_1067322330.bundle",
+          "MX_unitybuiltinshaders_4156112658.bundle",
+          "assets-_mx-spinelobbies-lobbyshiroko_multi-_mxdependency-textures-2025-07-02_assets_all_542701294.bundle",
+          "packages-com.unity.render-pipelines.universal-runtime-materials-_mxdependency-materials-2025-07-02_assets_all_3006197376.bundle"
+        ]
+      }
+    ]
+  },
+  "Audios": {
+    "Entries": [
+      {
+        "Region": 3,
+        "Audio_Path_List": []
+      }
+    ]
+  },
+  "Subtitles": {
+    "Entries": [
+      {
+        "Region": 3,
+        "CharacterDialogInfo_List": [],
+        "ScenarioScriptExcel_List": []
+      }
+    ]
+  }
+}

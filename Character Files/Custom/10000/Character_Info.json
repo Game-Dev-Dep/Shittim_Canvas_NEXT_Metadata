@@ -1,0 +1,13 @@
+{
+  "Character_Id": 10000,
+  "Character_Name": "Hoshino",
+  "Character_Scale": 1,
+  "Files": {
+    "Atlas_File_Path": "role.atlas.txt",
+    "Skel_File_Path": "role.json",
+    "Texture_File_Path_List": [
+        "role.png",
+        "role2.png"
+    ]
+  }
+}

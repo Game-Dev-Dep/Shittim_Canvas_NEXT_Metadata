@@ -1,0 +1,4370 @@
+{
+    "Character_Map_List": [
+        {
+            "Type": 1,
+            "Character_Id": 10000,
+            "Value": "Aru"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10001,
+            "Value": "Eimi"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10002,
+            "Value": "Haruna"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10003,
+            "Value": "Hihumi"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10004,
+            "Value": "Hina"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10005,
+            "Value": "Hoshino"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 1000501,
+            "Value": "Hoshino_multi"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10006,
+            "Value": "Iori"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10007,
+            "Value": "Maki"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10008,
+            "Value": "Neru"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10009,
+            "Value": "Izumi"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10010,
+            "Value": "Shiroko"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 1001001,
+            "Value": "Shiroko_multi"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10011,
+            "Value": "Shun"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10012,
+            "Value": "Sumire"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10013,
+            "Value": "Tsurugi"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10014,
+            "Value": "Izuna"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10015,
+            "Value": "Aris"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10016,
+            "Value": "Midori"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 13000,
+            "Value": "Akane"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 13001,
+            "Value": "Chise"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 13002,
+            "Value": "Akari"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 13003,
+            "Value": "Hasumi"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 13004,
+            "Value": "Nonomi"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 1300401,
+            "Value": "Nonomi_multi"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 13005,
+            "Value": "Kayoko"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 13006,
+            "Value": "Mutsuki"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 13007,
+            "Value": "Zunko"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 13008,
+            "Value": "Serika"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 1300801,
+            "Value": "Serika_multi"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 13009,
+            "Value": "Tsubaki"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 13010,
+            "Value": "Yuuka"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 13011,
+            "Value": "Momoi"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20000,
+            "Value": "Hibiki"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20001,
+            "Value": "Karin"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20002,
+            "Value": "Saya"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20003,
+            "Value": "Mashiro"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 23000,
+            "Value": "Airi"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 23001,
+            "Value": "Fuuka"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 23002,
+            "Value": "Hanae"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 23003,
+            "Value": "Hare"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 23004,
+            "Value": "Utaha"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 23005,
+            "Value": "Ayane"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 2300501,
+            "Value": "Ayane_multi"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 23006,
+            "Value": "Shizuko"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10017,
+            "Value": "Cherino"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 26006,
+            "Value": "Nodoka"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10018,
+            "Value": "Yuzu"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10019,
+            "Value": "Azusa"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10020,
+            "Value": "Koharu"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 23007,
+            "Value": "Hanako"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 26005,
+            "Value": "Yoshimi"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10021,
+            "Value": "Azusa_swimsuit"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 16005,
+            "Value": "CH0060"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20004,
+            "Value": "Mashiro_swimsuit"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20005,
+            "Value": "CH0058"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 16006,
+            "Value": "Izumi_swimsuit"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10022,
+            "Value": "CH0063"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10023,
+            "Value": "CH0064"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10024,
+            "Value": "Shiroko_ridingsuit"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10025,
+            "Value": "CH0066"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 13012,
+            "Value": "Kirino"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20006,
+            "Value": "Saya_casual"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10026,
+            "Value": "CH0101"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10027,
+            "Value": "CH0100"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10028,
+            "Value": "CH0098"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 26003,
+            "Value": "Serina"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10029,
+            "Value": "CH0155"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 23008,
+            "Value": "Mari"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20007,
+            "Value": "CH9999"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20008,
+            "Value": "Ako"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20009,
+            "Value": "CH0164"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10030,
+            "Value": "CH0163"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 16007,
+            "Value": "Tomoe"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20010,
+            "Value": "CH0165"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 16000,
+            "Value": "Haruka"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10031,
+            "Value": "Aru_Newyear"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10032,
+            "Value": "Mutsuki_Newyear"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20011,
+            "Value": "Serika_Newyear"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 16002,
+            "Value": "Kotori"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10033,
+            "Value": "Wakamo"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20012,
+            "Value": "CH0081"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20013,
+            "Value": "CH0160"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 16008,
+            "Value": "CH0141"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10034,
+            "Value": "Mimori"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10035,
+            "Value": "CH0169"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10036,
+            "Value": "Hinata"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10037,
+            "Value": "Marina"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10038,
+            "Value": "Miyako"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20014,
+            "Value": "CH0144"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10039,
+            "Value": "CH0145"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20015,
+            "Value": "Kaede"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20016,
+            "Value": "CH0156"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 16009,
+            "Value": "CH0113"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10040,
+            "Value": "CH0114"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 26004,
+            "Value": "Shimiko"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10041,
+            "Value": "Misaki"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20017,
+            "Value": "Hiyori"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10042,
+            "Value": "Atsuko"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 16003,
+            "Value": "Suzumi"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10043,
+            "Value": "CH0175"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10044,
+            "Value": "CH0092"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 26007,
+            "Value": "CH0176"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 16004,
+            "Value": "Pina"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10045,
+            "Value": "Hoshino_swimsuit"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 26008,
+            "Value": "CH0180"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10046,
+            "Value": "CH0179"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10047,
+            "Value": "CH0178"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10048,
+            "Value": "Saori"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 26000,
+            "Value": "Chinatsu"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20018,
+            "Value": "Moe"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10049,
+            "Value": "Kazusa"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10050,
+            "Value": "CH0137"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10051,
+            "Value": "CH0182"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10052,
+            "Value": "CH0095"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 16010,
+            "Value": "CH0181"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 16001,
+            "Value": "Asuna"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20019,
+            "Value": "CH0099"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10053,
+            "Value": "CH0184"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10054,
+            "Value": "CH0186"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 16011,
+            "Value": "CH0190"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20020,
+            "Value": "CH0159"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 26001,
+            "Value": "Kotama"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10055,
+            "Value": "Shigure"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10056,
+            "Value": "CH0194"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20021,
+            "Value": "CH0195"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 26002,
+            "Value": "Juri"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10057,
+            "Value": "CH0191"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 16012,
+            "Value": "CH0192"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20022,
+            "Value": "CH0177"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10058,
+            "Value": "CH0152"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10059,
+            "Value": "CH0069"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20023,
+            "Value": "CH0170"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10060,
+            "Value": "CH0088"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10061,
+            "Value": "Sakurako"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10062,
+            "Value": "CH0187"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20024,
+            "Value": "Nagisa"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10063,
+            "Value": "CH0198"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10064,
+            "Value": "CH0086"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20025,
+            "Value": "CH0087"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10065,
+            "Value": "CH0107"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10066,
+            "Value": "CH0200"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10067,
+            "Value": "CH0211"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 26009,
+            "Value": "CH0203"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10068,
+            "Value": "CH0167"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10069,
+            "Value": "CH0135"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10070,
+            "Value": "CH0138"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20026,
+            "Value": "CH0214"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10071,
+            "Value": "CH0215"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10072,
+            "Value": "CH0217"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 26010,
+            "Value": "CH0218"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20027,
+            "Value": "CH0188"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10073,
+            "Value": "CH0204"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20028,
+            "Value": "CH0210"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 16013,
+            "Value": "CH0205"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10074,
+            "Value": "CH0209"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20029,
+            "Value": "CH0183"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10075,
+            "Value": "CH0124"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 13013,
+            "Value": "Momiji"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10076,
+            "Value": "CH0185"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20030,
+            "Value": "CH0193"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10077,
+            "Value": "CH0071"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10078,
+            "Value": "CH0089"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20031,
+            "Value": "CH0123"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10079,
+            "Value": "CH9998"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10080,
+            "Value": "CH9997"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 26011,
+            "Value": "CH9996"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10081,
+            "Value": "CH0161"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10082,
+            "Value": "CH0224"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10083,
+            "Value": "CH0225"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20032,
+            "Value": "CH0219"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10084,
+            "Value": "CH0232"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10085,
+            "Value": "CH0233"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20033,
+            "Value": "CH0079"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10087,
+            "Value": "CH0231"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 16014,
+            "Value": "Ibuki"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10086,
+            "Value": "CH0230"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10088,
+            "Value": "CH0239"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10089,
+            "Value": "CH0240"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20034,
+            "Value": "CH0196"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10090,
+            "Value": "CH0110"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20035,
+            "Value": "CH0255"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10091,
+            "Value": "CH0250"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 16015,
+            "Value": "CH0251"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10092,
+            "Value": "CH0220"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10093,
+            "Value": "Kirara"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10094,
+            "Value": "CH0201"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10095,
+            "Value": "CH0202"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20036,
+            "Value": "CH0189"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10096,
+            "Value": "CH0260"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20037,
+            "Value": "CH0261"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 26012,
+            "Value": "CH0262"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10097,
+            "Value": "CH0216"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10098,
+            "Value": "CH0258"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10100,
+            "Value": "CH0263"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10101,
+            "Value": "CH0266"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10102,
+            "Value": "CH0269"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 26013,
+            "Value": "CH0267"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10103,
+            "Value": "CH0270"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20038,
+            "Value": "CH0271"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10104,
+            "Value": "Reizyo"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20039,
+            "Value": "CH0139"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10105,
+            "Value": "CH0273"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10106,
+            "Value": "CH0274"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 16016,
+            "Value": "CH0275"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20040,
+            "Value": "CH0080"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10107,
+            "Value": "CH0238"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10108,
+            "Value": "CH0284"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10109,
+            "Value": "CH0285"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10110,
+            "Value": "CH0070"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10112,
+            "Value": "CH0281"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 26014,
+            "Value": "CH0282"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20041,
+            "Value": "CH0158"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10111,
+            "Value": "CH0280"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20042,
+            "Value": "CH0235"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10113,
+            "Value": "CH0082"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10114,
+            "Value": "CH0286"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20043,
+            "Value": "CH0197"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20044,
+            "Value": "CH0287"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10115,
+            "Value": "CH0245"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10116,
+            "Value": "CH0259"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10117,
+            "Value": "CH0242"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10118,
+            "Value": "CH0243"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 16017,
+            "Value": "CH0288"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20045,
+            "Value": "CH0257"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10119,
+            "Value": "CH0222"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20046,
+            "Value": "CH0109"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10120,
+            "Value": "CH0221"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20047,
+            "Value": "CH0300"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 13014,
+            "Value": "CH0302"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10121,
+            "Value": "CH0301"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10123,
+            "Value": "CH0295"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10124,
+            "Value": "CH0291"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 26015,
+            "Value": "CH0292"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20048,
+            "Value": "CH0293"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10122,
+            "Value": "CH0294"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10125,
+            "Value": "CH0304"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10126,
+            "Value": "CH0306"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20049,
+            "Value": "CH0268"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10127,
+            "Value": "CH0317"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10128,
+            "Value": "CH0318"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20050,
+            "Value": "CH0319"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10129,
+            "Value": "CH0325"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20051,
+            "Value": "CH0326"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 16018,
+            "Value": "CH0166"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10130,
+            "Value": "CH0309"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10131,
+            "Value": "CH0229"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20052,
+            "Value": "CH0228"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10132,
+            "Value": "CH0297"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20053,
+            "Value": "CH0296"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10133,
+            "Value": "CH0331"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20054,
+            "Value": "CH0332"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 16019,
+            "Value": "CH0333"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10134,
+            "Value": "CH0334"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10135,
+            "Value": "CH0335"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20055,
+            "Value": "CH0336"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10136,
+            "Value": "CH0337"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 20056,
+            "Value": "CH0310"
+        },
+        {
+            "Type": 3,
+            "Character_Id": 1100001,
+            "Value": "SC11000_01"
+        },
+        {
+            "Type": 3,
+            "Character_Id": 1200002,
+            "Value": "SC12000_02"
+        },
+        {
+            "Type": 3,
+            "Character_Id": 5100001,
+            "Value": "SC51000_01"
+        },
+        {
+            "Type": 3,
+            "Character_Id": 5100002,
+            "Value": "SC51000_02"
+        },
+        {
+            "Type": 3,
+            "Character_Id": 5200001,
+            "Value": "SC52000_01"
+        },
+        {
+            "Type": 3,
+            "Character_Id": 5200002,
+            "Value": "SC52000_02"
+        },
+        {
+            "Type": 3,
+            "Character_Id": 6100001,
+            "Value": "SC61000_01"
+        },
+        {
+            "Type": 3,
+            "Character_Id": 6200001,
+            "Value": "SC62000_01"
+        },
+        {
+            "Type": 3,
+            "Character_Id": 6300001,
+            "Value": "SC63000_01"
+        },
+        {
+            "Type": 3,
+            "Character_Id": 120000101,
+            "Value": "SC1200001_01"
+        },
+        {
+            "Type": 3,
+            "Character_Id": 120000102,
+            "Value": "SC1200001_02"
+        },
+        {
+            "Type": 3,
+            "Character_Id": 9000200001,
+            "Value": "SC90002000_01"
+        },
+        {
+            "Type": 3,
+            "Character_Id": 9000200002,
+            "Value": "SC90002000_02"
+        },
+        {
+            "Type": 3,
+            "Character_Id": 9000200003,
+            "Value": "SC90002000_03"
+        },
+        {
+            "Type": 3,
+            "Character_Id": 9000200004,
+            "Value": "SC90002000_04"
+        }
+    ],
+    "Character_Info_Dictionary": {
+        "Aru": {
+            "Name_Dev": "Aru",
+            "Name_SC": "爱露",
+            "Name_TC": "亞瑠",
+            "Name_Jp": "アル",
+            "Name_En": "Aru",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 4,
+            "Club": 21
+        },
+        "Eimi": {
+            "Name_Dev": "Eimi",
+            "Name_SC": "艾米",
+            "Name_TC": "英美",
+            "Name_Jp": "エイミ",
+            "Name_En": "Eimi",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 27
+        },
+        "Haruna": {
+            "Name_Dev": "Haruna",
+            "Name_SC": "晴奈",
+            "Name_TC": "羽留奈",
+            "Name_Jp": "ハルナ",
+            "Name_En": "Haruna",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 4,
+            "Club": 13
+        },
+        "Hihumi": {
+            "Name_Dev": "Hihumi",
+            "Name_SC": "日富美",
+            "Name_TC": "日步美",
+            "Name_Jp": "ヒフミ",
+            "Name_En": "Hifumi",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 26
+        },
+        "Hina": {
+            "Name_Dev": "Hina",
+            "Name_SC": "日奈",
+            "Name_TC": "陽奈",
+            "Name_Jp": "ヒナ",
+            "Name_En": "Hina",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 4,
+            "Club": 20
+        },
+        "Hoshino": {
+            "Name_Dev": "Hoshino",
+            "Name_SC": "星野",
+            "Name_TC": "星野",
+            "Name_Jp": "ホシノ",
+            "Name_En": "Hoshino",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 5,
+            "Club": 10
+        },
+        "Hoshino_multi": {
+            "Name_Dev": "Hoshino_multi",
+            "Name_SC": "星野（特典）",
+            "Name_TC": "星野（特典）",
+            "Name_Jp": "ホシノ(イベント)",
+            "Name_En": "Hoshino(Event)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 5,
+            "Club": 10
+        },
+        "Iori": {
+            "Name_Dev": "Iori",
+            "Name_SC": "伊织",
+            "Name_TC": "伊織",
+            "Name_Jp": "イオリ",
+            "Name_En": "Iori",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 4,
+            "Club": 20
+        },
+        "Maki": {
+            "Name_Dev": "Maki",
+            "Name_SC": "真纪",
+            "Name_TC": "真紀",
+            "Name_Jp": "マキ",
+            "Name_En": "Maki",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 29
+        },
+        "Neru": {
+            "Name_Dev": "Neru",
+            "Name_SC": "妮露",
+            "Name_TC": "寧瑠",
+            "Name_Jp": "ネル",
+            "Name_En": "Neru",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 2
+        },
+        "Izumi": {
+            "Name_Dev": "Izumi",
+            "Name_SC": "泉",
+            "Name_TC": "泉",
+            "Name_Jp": "イズミ",
+            "Name_En": "Izumi",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 4,
+            "Club": 13
+        },
+        "Shiroko": {
+            "Name_Dev": "Shiroko",
+            "Name_SC": "白子",
+            "Name_TC": "白子",
+            "Name_Jp": "シロコ",
+            "Name_En": "Shiroko",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 5,
+            "Club": 10
+        },
+        "Shiroko_multi": {
+            "Name_Dev": "Shiroko_multi",
+            "Name_SC": "白子（特典）",
+            "Name_TC": "白子（特典）",
+            "Name_Jp": "シロコ(特典)",
+            "Name_En": "Shiroko(Special)",
+            "Nicknames": [],
+            "School": 5,
+            "Club": 10
+        },
+        "Shun": {
+            "Name_Dev": "Shun",
+            "Name_SC": "瞬",
+            "Name_TC": "旬",
+            "Name_Jp": "シュン",
+            "Name_En": "Shun",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 8,
+            "Club": 22
+        },
+        "Sumire": {
+            "Name_Dev": "Sumire",
+            "Name_SC": "堇",
+            "Name_TC": "堇",
+            "Name_Jp": "スミレ",
+            "Name_En": "Sumire",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 30
+        },
+        "Tsurugi": {
+            "Name_Dev": "Tsurugi",
+            "Name_SC": "鹤城",
+            "Name_TC": "弦生",
+            "Name_Jp": "ツルギ",
+            "Name_En": "Tsurugi",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 19
+        },
+        "Izuna": {
+            "Name_Dev": "Izuna",
+            "Name_SC": "泉奈",
+            "Name_TC": "伊樹菜",
+            "Name_Jp": "イズナ",
+            "Name_En": "Izuna",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 1,
+            "Club": 34
+        },
+        "Aris": {
+            "Name_Dev": "Aris",
+            "Name_SC": "爱丽丝",
+            "Name_TC": "愛麗絲",
+            "Name_Jp": "アリス",
+            "Name_En": "Aris",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 24
+        },
+        "Midori": {
+            "Name_Dev": "Midori",
+            "Name_SC": "绿",
+            "Name_TC": "綠",
+            "Name_Jp": "ミドリ",
+            "Name_En": "Midori",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 24
+        },
+        "Akane": {
+            "Name_Dev": "Akane",
+            "Name_SC": "茜",
+            "Name_TC": "朱音",
+            "Name_Jp": "アカネ",
+            "Name_En": "Akane",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 2
+        },
+        "Chise": {
+            "Name_Dev": "Chise",
+            "Name_SC": "千世",
+            "Name_TC": "知世",
+            "Name_Jp": "チセ",
+            "Name_En": "Chise",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 1,
+            "Club": 31
+        },
+        "Akari": {
+            "Name_Dev": "Akari",
+            "Name_SC": "明里",
+            "Name_TC": "亞伽里",
+            "Name_Jp": "アカリ",
+            "Name_En": "Akari",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 4,
+            "Club": 13
+        },
+        "Hasumi": {
+            "Name_Dev": "Hasumi",
+            "Name_SC": "莲见",
+            "Name_TC": "蓮實",
+            "Name_Jp": "ハスミ",
+            "Name_En": "Hasumi",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 19
+        },
+        "Nonomi": {
+            "Name_Dev": "Nonomi",
+            "Name_SC": "野宫",
+            "Name_TC": "野乃美",
+            "Name_Jp": "ノノミ",
+            "Name_En": "Nonomi",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 5,
+            "Club": 10
+        },
+        "Nonomi_multi": {
+            "Name_Dev": "Nonomi_multi",
+            "Name_SC": "野宫（特典）",
+            "Name_TC": "野乃美（特典）",
+            "Name_Jp": "ノノミ(特典)",
+            "Name_En": "Nonomi(Special)",
+            "Nicknames": [],
+            "School": 5,
+            "Club": 10
+        },
+        "Kayoko": {
+            "Name_Dev": "Kayoko",
+            "Name_SC": "佳代子",
+            "Name_TC": "佳世子",
+            "Name_Jp": "カヨコ",
+            "Name_En": "Kayoko",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 4,
+            "Club": 21
+        },
+        "Mutsuki": {
+            "Name_Dev": "Mutsuki",
+            "Name_SC": "睦月",
+            "Name_TC": "無月",
+            "Name_Jp": "ムツキ",
+            "Name_En": "Mutsuki",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 4,
+            "Club": 21
+        },
+        "Zunko": {
+            "Name_Dev": "Zunko",
+            "Name_SC": "纯子",
+            "Name_TC": "淳子",
+            "Name_Jp": "ジュンコ",
+            "Name_En": "Junko",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 4,
+            "Club": 13
+        },
+        "Serika": {
+            "Name_Dev": "Serika",
+            "Name_SC": "芹香",
+            "Name_TC": "茜香",
+            "Name_Jp": "セリカ",
+            "Name_En": "Serika",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 5,
+            "Club": 10
+        },
+        "Serika_multi": {
+            "Name_Dev": "Serika_multi",
+            "Name_SC": "芹香（特典）",
+            "Name_TC": "茜香（特典）",
+            "Name_Jp": "セリカ(特典)",
+            "Name_En": "Serika(Special)",
+            "Nicknames": [],
+            "School": 5,
+            "Club": 10
+        },
+        "Tsubaki": {
+            "Name_Dev": "Tsubaki",
+            "Name_SC": "椿",
+            "Name_TC": "椿",
+            "Name_Jp": "ツバキ",
+            "Name_En": "Tsubaki",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 1,
+            "Club": 32
+        },
+        "Yuuka": {
+            "Name_Dev": "Yuuka",
+            "Name_SC": "优香",
+            "Name_TC": "優香",
+            "Name_Jp": "ユウカ",
+            "Name_En": "Yuuka",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 17
+        },
+        "Momoi": {
+            "Name_Dev": "Momoi",
+            "Name_SC": "桃",
+            "Name_TC": "桃井",
+            "Name_Jp": "モモイ",
+            "Name_En": "Momoi",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 24
+        },
+        "Hibiki": {
+            "Name_Dev": "Hibiki",
+            "Name_SC": "响",
+            "Name_TC": "響",
+            "Name_Jp": "ヒビキ",
+            "Name_En": "Hibiki",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 1
+        },
+        "Karin": {
+            "Name_Dev": "Karin",
+            "Name_SC": "花凛",
+            "Name_TC": "花凛",
+            "Name_Jp": "カリン",
+            "Name_En": "Karin",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 2
+        },
+        "Saya": {
+            "Name_Dev": "Saya",
+            "Name_SC": "纱绫",
+            "Name_TC": "沙耶",
+            "Name_Jp": "サヤ",
+            "Name_En": "Saya",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 8,
+            "Club": 33
+        },
+        "Mashiro": {
+            "Name_Dev": "Mashiro",
+            "Name_SC": "真白",
+            "Name_TC": "麻白",
+            "Name_Jp": "マシロ",
+            "Name_En": "Mashiro",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 19
+        },
+        "Airi": {
+            "Name_Dev": "Airi",
+            "Name_SC": "爱理",
+            "Name_TC": "愛莉",
+            "Name_Jp": "アイリ",
+            "Name_En": "Airi",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 14
+        },
+        "Fuuka": {
+            "Name_Dev": "Fuuka",
+            "Name_SC": "风香",
+            "Name_TC": "風華",
+            "Name_Jp": "フウカ",
+            "Name_En": "Fuuka",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 4,
+            "Club": 9
+        },
+        "Hanae": {
+            "Name_Dev": "Hanae",
+            "Name_SC": "花江",
+            "Name_TC": "花繪",
+            "Name_Jp": "ハナエ",
+            "Name_En": "Hanae",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 3
+        },
+        "Hare": {
+            "Name_Dev": "Hare",
+            "Name_SC": "晴",
+            "Name_TC": "晴",
+            "Name_Jp": "ハレ",
+            "Name_En": "Hare",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 29
+        },
+        "Utaha": {
+            "Name_Dev": "Utaha",
+            "Name_SC": "歌原",
+            "Name_TC": "詠葉",
+            "Name_Jp": "ウタハ",
+            "Name_En": "Utaha",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 1
+        },
+        "Ayane": {
+            "Name_Dev": "Ayane",
+            "Name_SC": "绫音",
+            "Name_TC": "綾音",
+            "Name_Jp": "アヤネ",
+            "Name_En": "Ayane",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 5,
+            "Club": 10
+        },
+        "Ayane_multi": {
+            "Name_Dev": "Ayane_multi",
+            "Name_SC": "绫音（特典）",
+            "Name_TC": "綾音（特典）",
+            "Name_Jp": "アヤネ(特典)",
+            "Name_En": "Ayane(Special)",
+            "Nicknames": [],
+            "School": 5,
+            "Club": 10
+        },
+        "Shizuko": {
+            "Name_Dev": "Shizuko",
+            "Name_SC": "静子",
+            "Name_TC": "靜子",
+            "Name_Jp": "シズコ",
+            "Name_En": "Shizuko",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 1,
+            "Club": 12
+        },
+        "Cherino": {
+            "Name_Dev": "Cherino",
+            "Name_SC": "切里诺",
+            "Name_TC": "潔莉諾",
+            "Name_Jp": "チェリノ",
+            "Name_En": "Cherino",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 2,
+            "Club": 15
+        },
+        "Nodoka": {
+            "Name_Dev": "Nodoka",
+            "Name_SC": "和香",
+            "Name_TC": "和香",
+            "Name_Jp": "ノドカ",
+            "Name_En": "Nodoka",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 2,
+            "Club": 35
+        },
+        "Yuzu": {
+            "Name_Dev": "Yuzu",
+            "Name_SC": "柚子",
+            "Name_TC": "柚子",
+            "Name_Jp": "ユズ",
+            "Name_En": "Yuzu",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 24
+        },
+        "Azusa": {
+            "Name_Dev": "Azusa",
+            "Name_SC": "梓",
+            "Name_TC": "梓",
+            "Name_Jp": "アズサ",
+            "Name_En": "Azusa",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 26
+        },
+        "Koharu": {
+            "Name_Dev": "Koharu",
+            "Name_SC": "小春",
+            "Name_TC": "小春",
+            "Name_Jp": "コハル",
+            "Name_En": "Koharu",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 26
+        },
+        "Hanako": {
+            "Name_Dev": "Hanako",
+            "Name_SC": "花子",
+            "Name_TC": "花子",
+            "Name_Jp": "ハナコ",
+            "Name_En": "Hanako",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 26
+        },
+        "Yoshimi": {
+            "Name_Dev": "Yoshimi",
+            "Name_SC": "好美",
+            "Name_TC": "喜美",
+            "Name_Jp": "ヨシミ",
+            "Name_En": "Yoshimi",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 14
+        },
+        "Azusa_swimsuit": {
+            "Name_Dev": "Azusa_swimsuit",
+            "Name_SC": "梓（泳装）",
+            "Name_TC": "梓（泳裝）",
+            "Name_Jp": "アズサ(水着)",
+            "Name_En": "Azusa(swimsuit)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 26
+        },
+        "CH0060": {
+            "Name_Dev": "CH0060",
+            "Name_SC": "鹤城（泳装）",
+            "Name_TC": "弦生（泳裝）",
+            "Name_Jp": "ツルギ(水着)",
+            "Name_En": "Tsurugi(swimsuit)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 19
+        },
+        "Mashiro_swimsuit": {
+            "Name_Dev": "Mashiro_swimsuit",
+            "Name_SC": "真白（泳装）",
+            "Name_TC": "麻白（泳裝）",
+            "Name_Jp": "マシロ(水着)",
+            "Name_En": "Mashiro(Swimsuit)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 19
+        },
+        "CH0058": {
+            "Name_Dev": "CH0058",
+            "Name_SC": "日富美（泳装）",
+            "Name_TC": "日步美（泳裝）",
+            "Name_Jp": "ヒフミ(水着)",
+            "Name_En": "Hifumi(Swimsuit)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 26
+        },
+        "Izumi_swimsuit": {
+            "Name_Dev": "Izumi_swimsuit",
+            "Name_SC": "泉（泳装）",
+            "Name_TC": "泉（泳裝）",
+            "Name_Jp": "イズミ(水着)",
+            "Name_En": "Izumi(Swimsuit)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 4,
+            "Club": 13
+        },
+        "CH0063": {
+            "Name_Dev": "CH0063",
+            "Name_SC": "日奈（泳装）",
+            "Name_TC": "陽奈（泳裝）",
+            "Name_Jp": "ヒナ(水着)",
+            "Name_En": "Hina(Swimsuit)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 4,
+            "Club": 20
+        },
+        "CH0064": {
+            "Name_Dev": "CH0064",
+            "Name_SC": "伊织（泳装）",
+            "Name_TC": "伊織（泳裝）",
+            "Name_Jp": "イオリ(水着)",
+            "Name_En": "Iori(Swimsuit)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 4,
+            "Club": 20
+        },
+        "Shiroko_ridingsuit": {
+            "Name_Dev": "Shiroko_ridingsuit",
+            "Name_SC": "白子（骑行）",
+            "Name_TC": "白子（單車）",
+            "Name_Jp": "シロコ(ライディング)",
+            "Name_En": "Shiroko(Riding)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 5,
+            "Club": 10
+        },
+        "CH0066": {
+            "Name_Dev": "CH0066",
+            "Name_SC": "瞬（小）",
+            "Name_TC": "旬（幼女）",
+            "Name_Jp": "シュン(幼女)",
+            "Name_En": "Shun(Small)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 8,
+            "Club": 22
+        },
+        "Kirino": {
+            "Name_Dev": "Kirino",
+            "Name_SC": "桐乃",
+            "Name_TC": "桐乃",
+            "Name_Jp": "キリノ",
+            "Name_En": "Kirino",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 9,
+            "Club": 25
+        },
+        "Saya_casual": {
+            "Name_Dev": "Saya_casual",
+            "Name_SC": "纱绫（便服）",
+            "Name_TC": "沙耶（私服）",
+            "Name_Jp": "サヤ(カジュアル)",
+            "Name_En": "Saya(Casual)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 8,
+            "Club": 33
+        },
+        "CH0101": {
+            "Name_Dev": "CH0101",
+            "Name_SC": "妮露（兔女郎）",
+            "Name_TC": "寧瑠（兔女郎）",
+            "Name_Jp": "ネル(バニー)",
+            "Name_En": "Neru(Bunny)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 2
+        },
+        "CH0100": {
+            "Name_Dev": "CH0100",
+            "Name_SC": "花凛（兔女郎）",
+            "Name_TC": "花凛（兔女郎）",
+            "Name_Jp": "カリン(バニー)",
+            "Name_En": "Karin(Bunny)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 2
+        },
+        "CH0098": {
+            "Name_Dev": "CH0098",
+            "Name_SC": "明日奈（兔女郎）",
+            "Name_TC": "明日奈（兔女郎）",
+            "Name_Jp": "アスナ(バニー)",
+            "Name_En": "Asuna(Bunny)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 2
+        },
+        "Serina": {
+            "Name_Dev": "Serina",
+            "Name_SC": "芹娜",
+            "Name_TC": "芹奈",
+            "Name_Jp": "セリナ",
+            "Name_En": "Serina",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 3
+        },
+        "CH0155": {
+            "Name_Dev": "CH0155",
+            "Name_SC": "夏",
+            "Name_TC": "夏",
+            "Name_Jp": "ナツ",
+            "Name_En": "Natsu",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 14
+        },
+        "Mari": {
+            "Name_Dev": "Mari",
+            "Name_SC": "玛丽",
+            "Name_TC": "瑪麗",
+            "Name_Jp": "マリー",
+            "Name_En": "Mari",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 23
+        },
+        "CH9999": {
+            "Name_Dev": "CH9999",
+            "Name_SC": "初音未来",
+            "Name_TC": "初音未來",
+            "Name_Jp": "初音ミク",
+            "Name_En": "Hatsune Miku",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 13,
+            "Club": 36
+        },
+        "Ako": {
+            "Name_Dev": "Ako",
+            "Name_SC": "亚子",
+            "Name_TC": "亞子",
+            "Name_Jp": "アコ",
+            "Name_En": "Ako",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 4,
+            "Club": 20
+        },
+        "CH0164": {
+            "Name_Dev": "CH0164",
+            "Name_SC": "切里诺（温泉）",
+            "Name_TC": "潔莉諾（溫泉）",
+            "Name_Jp": "チェリノ(温泉)",
+            "Name_En": "Cherino(Hotspring)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 2,
+            "Club": 15
+        },
+        "CH0163": {
+            "Name_Dev": "CH0163",
+            "Name_SC": "千夏（温泉）",
+            "Name_TC": "千夏（溫泉）",
+            "Name_Jp": "チナツ(温泉)",
+            "Name_En": "Chinatsu(Hotspring)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 4,
+            "Club": 20
+        },
+        "Tomoe": {
+            "Name_Dev": "Tomoe",
+            "Name_SC": "巴",
+            "Name_TC": "智惠",
+            "Name_Jp": "トモエ",
+            "Name_En": "Tomoe",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 2,
+            "Club": 15
+        },
+        "CH0165": {
+            "Name_Dev": "CH0165",
+            "Name_SC": "和香（温泉）",
+            "Name_TC": "和香（溫泉）",
+            "Name_Jp": "ノドカ(温泉)",
+            "Name_En": "Nodoka(Hotspring)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 2,
+            "Club": 35
+        },
+        "Haruka": {
+            "Name_Dev": "Haruka",
+            "Name_SC": "春香",
+            "Name_TC": "遙香",
+            "Name_Jp": "ハルカ",
+            "Name_En": "Haruka",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 4,
+            "Club": 21
+        },
+        "Aru_Newyear": {
+            "Name_Dev": "Aru_Newyear",
+            "Name_SC": "爱露（正月）",
+            "Name_TC": "亞瑠（正月）",
+            "Name_Jp": "アル(正月)",
+            "Name_En": "Aru(Newyear)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 4,
+            "Club": 21
+        },
+        "Mutsuki_Newyear": {
+            "Name_Dev": "Mutsuki_Newyear",
+            "Name_SC": "睦月（正月）",
+            "Name_TC": "無月（正月）",
+            "Name_Jp": "ムツキ(正月)",
+            "Name_En": "Mutsuki(Newyear)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 4,
+            "Club": 21
+        },
+        "Serika_Newyear": {
+            "Name_Dev": "Serika_Newyear",
+            "Name_SC": "芹香（正月）",
+            "Name_TC": "茜香（正月）",
+            "Name_Jp": "セリカ(正月)",
+            "Name_En": "Serika(Newyear)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 5,
+            "Club": 10
+        },
+        "Kotori": {
+            "Name_Dev": "Kotori",
+            "Name_SC": "琴里",
+            "Name_TC": "亞都梨",
+            "Name_Jp": "コトリ",
+            "Name_En": "Kotori",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 1
+        },
+        "Wakamo": {
+            "Name_Dev": "Wakamo",
+            "Name_SC": "若藻",
+            "Name_TC": "若藻",
+            "Name_Jp": "ワカモ",
+            "Name_En": "Wakamo",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 1,
+            "Club": 36
+        },
+        "CH0081": {
+            "Name_Dev": "CH0081",
+            "Name_SC": "濑名",
+            "Name_TC": "瀬奈",
+            "Name_Jp": "セナ",
+            "Name_En": "Sena",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 4,
+            "Club": 37
+        },
+        "CH0160": {
+            "Name_Dev": "CH0160",
+            "Name_SC": "千寻",
+            "Name_TC": "千尋",
+            "Name_Jp": "チヒロ",
+            "Name_En": "Chihiro",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 29
+        },
+        "CH0141": {
+            "Name_Dev": "CH0141",
+            "Name_SC": "吹雪",
+            "Name_TC": "吹雪",
+            "Name_Jp": "フブキ",
+            "Name_En": "Fubuki",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 9,
+            "Club": 25
+        },
+        "Mimori": {
+            "Name_Dev": "Mimori",
+            "Name_SC": "三森",
+            "Name_TC": "三森",
+            "Name_Jp": "ミモリ",
+            "Name_En": "Mimori",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 1,
+            "Club": 32
+        },
+        "CH0169": {
+            "Name_Dev": "CH0169",
+            "Name_SC": "忧",
+            "Name_TC": "憂",
+            "Name_Jp": "ウイ",
+            "Name_En": "Ui",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 11
+        },
+        "Hinata": {
+            "Name_Dev": "Hinata",
+            "Name_SC": "日向",
+            "Name_TC": "日向",
+            "Name_Jp": "ヒナタ",
+            "Name_En": "Hinata",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 23
+        },
+        "Marina": {
+            "Name_Dev": "Marina",
+            "Name_SC": "真里奈",
+            "Name_TC": "瑪麗娜",
+            "Name_Jp": "マリナ",
+            "Name_En": "Marina",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 2,
+            "Club": 15
+        },
+        "Miyako": {
+            "Name_Dev": "Miyako",
+            "Name_SC": "宫子",
+            "Name_TC": "都子",
+            "Name_Jp": "ミヤコ",
+            "Name_En": "Miyako",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 11,
+            "Club": 38
+        },
+        "CH0144": {
+            "Name_Dev": "CH0144",
+            "Name_SC": "咲",
+            "Name_TC": "咲希",
+            "Name_Jp": "サキ",
+            "Name_En": "Saki",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 11,
+            "Club": 38
+        },
+        "CH0145": {
+            "Name_Dev": "CH0145",
+            "Name_SC": "美游",
+            "Name_TC": "美優",
+            "Name_Jp": "ミユ",
+            "Name_En": "Miyu",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 11,
+            "Club": 38
+        },
+        "Kaede": {
+            "Name_Dev": "Kaede",
+            "Name_SC": "枫",
+            "Name_TC": "楓",
+            "Name_Jp": "カエデ",
+            "Name_En": "Kaede",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 1,
+            "Club": 32
+        },
+        "CH0156": {
+            "Name_Dev": "CH0156",
+            "Name_SC": "伊吕波",
+            "Name_TC": "伊呂波",
+            "Name_Jp": "イロハ",
+            "Name_En": "Iroha",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 4,
+            "Club": 39
+        },
+        "CH0113": {
+            "Name_Dev": "CH0113",
+            "Name_SC": "满",
+            "Name_TC": "三千留",
+            "Name_Jp": "ミチル",
+            "Name_En": "Michiru",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 1,
+            "Club": 34
+        },
+        "CH0114": {
+            "Name_Dev": "CH0114",
+            "Name_SC": "月咏",
+            "Name_TC": "月夜",
+            "Name_Jp": "ツクヨ",
+            "Name_En": "Tsukuyo",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 1,
+            "Club": 34
+        },
+        "Shimiko": {
+            "Name_Dev": "Shimiko",
+            "Name_SC": "志美子",
+            "Name_TC": "志美子",
+            "Name_Jp": "シミコ",
+            "Name_En": "Shimiko",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 11
+        },
+        "Misaki": {
+            "Name_Dev": "Misaki",
+            "Name_SC": "美咲",
+            "Name_TC": "美咲",
+            "Name_Jp": "ミサキ",
+            "Name_En": "Misaki",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 7,
+            "Club": 18
+        },
+        "Hiyori": {
+            "Name_Dev": "Hiyori",
+            "Name_SC": "日和",
+            "Name_TC": "日和",
+            "Name_Jp": "ヒヨリ",
+            "Name_En": "Hiyori",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 7,
+            "Club": 18
+        },
+        "Atsuko": {
+            "Name_Dev": "Atsuko",
+            "Name_SC": "亚津子",
+            "Name_TC": "敦子",
+            "Name_Jp": "アツコ",
+            "Name_En": "Atsuko",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 7,
+            "Club": 18
+        },
+        "Suzumi": {
+            "Name_Dev": "Suzumi",
+            "Name_SC": "铃美",
+            "Name_TC": "鈴美",
+            "Name_Jp": "スズミ",
+            "Name_En": "Suzumi",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 28
+        },
+        "CH0175": {
+            "Name_Dev": "CH0175",
+            "Name_SC": "若藻（泳装）",
+            "Name_TC": "若藻（泳裝）",
+            "Name_Jp": "ワカモ(水着)",
+            "Name_En": "Wakamo(Swimsuit)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 1,
+            "Club": 36
+        },
+        "CH0092": {
+            "Name_Dev": "CH0092",
+            "Name_SC": "野宫（泳装）",
+            "Name_TC": "野乃美（泳裝）",
+            "Name_Jp": "ノノミ(水着)",
+            "Name_En": "Nonomi(Swimsuit)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 5,
+            "Club": 10
+        },
+        "CH0176": {
+            "Name_Dev": "CH0176",
+            "Name_SC": "绫音（泳装）",
+            "Name_TC": "綾音（泳裝）",
+            "Name_Jp": "アヤネ(水着)",
+            "Name_En": "Ayane(Swimsuit)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 5,
+            "Club": 10
+        },
+        "Pina": {
+            "Name_Dev": "Pina",
+            "Name_SC": "菲娜",
+            "Name_TC": "菲娜",
+            "Name_Jp": "フィーナ",
+            "Name_En": "Pina",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 1,
+            "Club": 12
+        },
+        "Hoshino_swimsuit": {
+            "Name_Dev": "Hoshino_swimsuit",
+            "Name_SC": "星野（泳装）",
+            "Name_TC": "星野（泳裝）",
+            "Name_Jp": "ホシノ(水着)",
+            "Name_En": "Hoshino(Swimsuit)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 5,
+            "Club": 10
+        },
+        "CH0180": {
+            "Name_Dev": "CH0180",
+            "Name_SC": "静子（泳装）",
+            "Name_TC": "靜子（泳裝）",
+            "Name_Jp": "シズコ(水着)",
+            "Name_En": "Shizuko(Swimsuit)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 1,
+            "Club": 12
+        },
+        "CH0179": {
+            "Name_Dev": "CH0179",
+            "Name_SC": "泉奈（泳装）",
+            "Name_TC": "伊樹菜（泳裝）",
+            "Name_Jp": "イズナ(水着)",
+            "Name_En": "Izuna(Swimsuit)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 1,
+            "Club": 34
+        },
+        "CH0178": {
+            "Name_Dev": "CH0178",
+            "Name_SC": "千世（泳装）",
+            "Name_TC": "知世（泳裝）",
+            "Name_Jp": "チセ(水着)",
+            "Name_En": "Chise(Swimsuit)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 1,
+            "Club": 31
+        },
+        "Saori": {
+            "Name_Dev": "Saori",
+            "Name_SC": "纱织",
+            "Name_TC": "沙織",
+            "Name_Jp": "サオリ",
+            "Name_En": "Saori",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 7,
+            "Club": 18
+        },
+        "Chinatsu": {
+            "Name_Dev": "Chinatsu",
+            "Name_SC": "千夏",
+            "Name_TC": "千夏",
+            "Name_Jp": "チナツ",
+            "Name_En": "Chinatsu",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 4,
+            "Club": 20
+        },
+        "Moe": {
+            "Name_Dev": "Moe",
+            "Name_SC": "萌绘",
+            "Name_TC": "萌",
+            "Name_Jp": "モエ",
+            "Name_En": "Moe",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 11,
+            "Club": 38
+        },
+        "Kazusa": {
+            "Name_Dev": "Kazusa",
+            "Name_SC": "和纱",
+            "Name_TC": "千紗",
+            "Name_Jp": "カズサ",
+            "Name_En": "Kazusa",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 14
+        },
+        "CH0137": {
+            "Name_Dev": "CH0137",
+            "Name_SC": "心奈",
+            "Name_TC": "心菜",
+            "Name_Jp": "ココナ",
+            "Name_En": "Kokona",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 8,
+            "Club": 22
+        },
+        "CH0182": {
+            "Name_Dev": "CH0182",
+            "Name_SC": "歌原（应援团）",
+            "Name_TC": "詠葉（應援團）",
+            "Name_Jp": "ウタハ(応援団)",
+            "Name_En": "Utaha(Cheer Squad)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 1
+        },
+        "CH0095": {
+            "Name_Dev": "CH0095",
+            "Name_SC": "诺亚",
+            "Name_TC": "乃愛",
+            "Name_Jp": "ノア",
+            "Name_En": "Noa",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 17
+        },
+        "CH0181": {
+            "Name_Dev": "CH0181",
+            "Name_SC": "响（应援团）",
+            "Name_TC": "響（應援團）",
+            "Name_Jp": "ヒビキ(応援団)",
+            "Name_En": "Hibiki(Cheer Squad)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 1
+        },
+        "Asuna": {
+            "Name_Dev": "Asuna",
+            "Name_SC": "明日奈",
+            "Name_TC": "明日奈",
+            "Name_Jp": "アスナ",
+            "Name_En": "Asuna",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 2
+        },
+        "CH0099": {
+            "Name_Dev": "CH0099",
+            "Name_SC": "茜（兔女郎）",
+            "Name_TC": "朱音（兔女郎）",
+            "Name_Jp": "アカネ(バニラ)",
+            "Name_En": "Akane(Bunny)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 2
+        },
+        "CH0184": {
+            "Name_Dev": "CH0184",
+            "Name_SC": "优香（体操服）",
+            "Name_TC": "優香（體育服）",
+            "Name_Jp": "ユウカ(体操服)",
+            "Name_En": "Yuuka(Track)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 17
+        },
+        "CH0186": {
+            "Name_Dev": "CH0186",
+            "Name_SC": "玛丽（体操服）",
+            "Name_TC": "瑪麗（體育服）",
+            "Name_Jp": "マリー(体操服)",
+            "Name_En": "Mari(Track)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 23
+        },
+        "CH0190": {
+            "Name_Dev": "CH0190",
+            "Name_SC": "莲见（体操服）",
+            "Name_TC": "蓮實（體育服）",
+            "Name_Jp": "ハスミ(体操服)",
+            "Name_En": "Hasumi(Track)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 19
+        },
+        "CH0159": {
+            "Name_Dev": "CH0159",
+            "Name_SC": "日鞠",
+            "Name_TC": "陽葵",
+            "Name_Jp": "ヒマリ",
+            "Name_En": "Himari",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 27
+        },
+        "Kotama": {
+            "Name_Dev": "Kotama",
+            "Name_SC": "小玉",
+            "Name_TC": "小玉",
+            "Name_Jp": "コタマ",
+            "Name_En": "Kotama",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 29
+        },
+        "Shigure": {
+            "Name_Dev": "Shigure",
+            "Name_SC": "时雨",
+            "Name_TC": "時雨",
+            "Name_Jp": "シグレ",
+            "Name_En": "Shigure",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 2,
+            "Club": 35
+        },
+        "CH0194": {
+            "Name_Dev": "CH0194",
+            "Name_SC": "芹娜（圣诞节）",
+            "Name_TC": "芹奈（聖誕節）",
+            "Name_Jp": "セリナ(クリスマス)",
+            "Name_En": "Serina(Christmas)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 3
+        },
+        "CH0195": {
+            "Name_Dev": "CH0195",
+            "Name_SC": "花江（圣诞节）",
+            "Name_TC": "花繪（聖誕節）",
+            "Name_Jp": "ハナエ(クリスマス)",
+            "Name_En": "Hanae(Christmas)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 3
+        },
+        "Juri": {
+            "Name_Dev": "Juri",
+            "Name_SC": "朱莉",
+            "Name_TC": "茱莉",
+            "Name_Jp": "ジュリ",
+            "Name_En": "Juri",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 4,
+            "Club": 9
+        },
+        "CH0191": {
+            "Name_Dev": "CH0191",
+            "Name_SC": "晴奈（正月）",
+            "Name_TC": "羽留奈（正月）",
+            "Name_Jp": "ハルナ(正月)",
+            "Name_En": "Haruna(Newyear)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 4,
+            "Club": 13
+        },
+        "CH0192": {
+            "Name_Dev": "CH0192",
+            "Name_SC": "纯子（正月）",
+            "Name_TC": "淳子（正月）",
+            "Name_Jp": "ジュンコ(正月)",
+            "Name_En": "Junko(Newyear)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 4,
+            "Club": 13
+        },
+        "CH0177": {
+            "Name_Dev": "CH0177",
+            "Name_SC": "风香（正月）",
+            "Name_TC": "風華（正月）",
+            "Name_Jp": "フウカ(正月)",
+            "Name_En": "Fuuka(Newyear)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 4,
+            "Club": 9
+        },
+        "CH0152": {
+            "Name_Dev": "CH0152",
+            "Name_SC": "美祢",
+            "Name_TC": "美禰",
+            "Name_Jp": "ミネ",
+            "Name_En": "Mine",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 3
+        },
+        "CH0069": {
+            "Name_Dev": "CH0069",
+            "Name_SC": "未花",
+            "Name_TC": "彌香",
+            "Name_Jp": "ミカ",
+            "Name_En": "Mika",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 41
+        },
+        "CH0170": {
+            "Name_Dev": "CH0170",
+            "Name_SC": "康娜",
+            "Name_TC": "環奈",
+            "Name_Jp": "カンナ",
+            "Name_En": "Kanna",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 9,
+            "Club": 42
+        },
+        "CH0088": {
+            "Name_Dev": "CH0088",
+            "Name_SC": "惠",
+            "Name_TC": "惠",
+            "Name_Jp": "メグ",
+            "Name_En": "Megu",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 4,
+            "Club": 40
+        },
+        "Sakurako": {
+            "Name_Dev": "Sakurako",
+            "Name_SC": "樱子",
+            "Name_TC": "櫻子",
+            "Name_Jp": "サクラコ",
+            "Name_En": "Sakurako",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 23
+        },
+        "CH0187": {
+            "Name_Dev": "CH0187",
+            "Name_SC": "时",
+            "Name_TC": "季",
+            "Name_Jp": "トキ",
+            "Name_En": "Toki",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 2
+        },
+        "Nagisa": {
+            "Name_Dev": "Nagisa",
+            "Name_SC": "渚",
+            "Name_TC": "渚",
+            "Name_Jp": "ナギサ",
+            "Name_En": "Nagisa",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 41
+        },
+        "CH0198": {
+            "Name_Dev": "CH0198",
+            "Name_SC": "小雪",
+            "Name_TC": "小雪",
+            "Name_Jp": "コユキ",
+            "Name_En": "Koyuki",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 17
+        },
+        "CH0086": {
+            "Name_Dev": "CH0086",
+            "Name_SC": "佳代子（正月）",
+            "Name_TC": "佳世子（正月）",
+            "Name_Jp": "カヨコ(正月)",
+            "Name_En": "Kayoko(Newyear)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 4,
+            "Club": 21
+        },
+        "CH0087": {
+            "Name_Dev": "CH0087",
+            "Name_SC": "春香（正月）",
+            "Name_TC": "遙香（正月）",
+            "Name_Jp": "ハルカ(正月)",
+            "Name_En": "Haruka(Newyear)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 4,
+            "Club": 21
+        },
+        "CH0107": {
+            "Name_Dev": "CH0107",
+            "Name_SC": "果穗",
+            "Name_TC": "佳穗",
+            "Name_Jp": "カホ",
+            "Name_En": "Kaho",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 1,
+            "Club": 31
+        },
+        "CH0200": {
+            "Name_Dev": "CH0200",
+            "Name_SC": "爱丽丝（女仆）",
+            "Name_TC": "愛麗絲（女僕）",
+            "Name_Jp": "アリス(ウェイトレス)",
+            "Name_En": "Aris(Maid)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 24
+        },
+        "CH0211": {
+            "Name_Dev": "CH0211",
+            "Name_SC": "时（兔女郎）",
+            "Name_TC": "季（兔女郎）",
+            "Name_Jp": "トキ(バニラ)",
+            "Name_En": "Toki(Bunny)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 2
+        },
+        "CH0203": {
+            "Name_Dev": "CH0203",
+            "Name_SC": "柚子（女仆）",
+            "Name_TC": "柚子（女僕）",
+            "Name_Jp": "ユズ(ウェイトレス)",
+            "Name_En": "Yuzu(Maid)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 24
+        },
+        "CH0167": {
+            "Name_Dev": "CH0167",
+            "Name_SC": "玲纱",
+            "Name_TC": "澪紗",
+            "Name_Jp": "レイサ",
+            "Name_En": "Reisa",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 28
+        },
+        "CH0135": {
+            "Name_Dev": "CH0135",
+            "Name_SC": "瑠海",
+            "Name_TC": "瑠美",
+            "Name_Jp": "ルミ",
+            "Name_En": "Rumi",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 8,
+            "Club": 44
+        },
+        "CH0138": {
+            "Name_Dev": "CH0138",
+            "Name_SC": "南",
+            "Name_TC": "美奈",
+            "Name_Jp": "ミナ",
+            "Name_En": "Mina",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 8,
+            "Club": 43
+        },
+        "CH0214": {
+            "Name_Dev": "CH0214",
+            "Name_SC": "实梨",
+            "Name_TC": "實里",
+            "Name_Jp": "ミノリ",
+            "Name_En": "Minori",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 2,
+            "Club": 45
+        },
+        "CH0215": {
+            "Name_Dev": "CH0215",
+            "Name_SC": "宫子（泳装）",
+            "Name_TC": "都子（泳裝）",
+            "Name_Jp": "ミヤコ(水着)",
+            "Name_En": "Miyako(Swimsuit)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 11,
+            "Club": 38
+        },
+        "CH0217": {
+            "Name_Dev": "CH0217",
+            "Name_SC": "咲（泳装）",
+            "Name_TC": "咲希（泳裝）",
+            "Name_Jp": "サキ(水着)",
+            "Name_En": "Saki(Swimsuit)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 11,
+            "Club": 38
+        },
+        "CH0218": {
+            "Name_Dev": "CH0218",
+            "Name_SC": "美游（泳装）",
+            "Name_TC": "美優（泳裝）",
+            "Name_Jp": "ミユ(水着)",
+            "Name_En": "Miyu(Swimsuit)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 11,
+            "Club": 38
+        },
+        "CH0188": {
+            "Name_Dev": "CH0188",
+            "Name_SC": "白子（泳装）",
+            "Name_TC": "白子（泳裝）",
+            "Name_Jp": "シロコ(水着)",
+            "Name_En": "Shiroko(Swimsuit)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 5,
+            "Club": 10
+        },
+        "CH0204": {
+            "Name_Dev": "CH0204",
+            "Name_SC": "忧（泳装）",
+            "Name_TC": "憂（泳裝）",
+            "Name_Jp": "ウイ(水着)",
+            "Name_En": "Ui(Swimsuit)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 11
+        },
+        "CH0210": {
+            "Name_Dev": "CH0210",
+            "Name_SC": "日向（泳装）",
+            "Name_TC": "日向（泳裝）",
+            "Name_Jp": "ヒナタ(水着)",
+            "Name_En": "Hinata(Swimsuit)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 23
+        },
+        "CH0205": {
+            "Name_Dev": "CH0205",
+            "Name_SC": "小春（泳装）",
+            "Name_TC": "小春（泳裝）",
+            "Name_Jp": "コハル(水着)",
+            "Name_En": "Koharu(Swimsuit)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 26
+        },
+        "CH0209": {
+            "Name_Dev": "CH0209",
+            "Name_SC": "花子（泳装）",
+            "Name_TC": "花子（泳裝）",
+            "Name_Jp": "ハナコ(水着)",
+            "Name_En": "Hanako(Swimsuit)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 26
+        },
+        "CH0183": {
+            "Name_Dev": "CH0183",
+            "Name_SC": "三森（泳装）",
+            "Name_TC": "三森（泳裝）",
+            "Name_Jp": "ミモリ(水着)",
+            "Name_En": "Mimori(Swimsuit)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 1,
+            "Club": 32
+        },
+        "CH0124": {
+            "Name_Dev": "CH0124",
+            "Name_SC": "芽瑠",
+            "Name_TC": "愛瑠",
+            "Name_Jp": "メル",
+            "Name_En": "Meru",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 2,
+            "Club": 46
+        },
+        "Momiji": {
+            "Name_Dev": "Momiji",
+            "Name_SC": "红叶",
+            "Name_TC": "紅葉",
+            "Name_Jp": "モミジ",
+            "Name_En": "Momiji",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 2,
+            "Club": 46
+        },
+        "CH0185": {
+            "Name_Dev": "CH0185",
+            "Name_SC": "琴里（应援团）",
+            "Name_TC": "亞都梨（應援團）",
+            "Name_Jp": " コトリ(応援団)",
+            "Name_En": "Kotori(Cheer Squad)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 1
+        },
+        "CH0193": {
+            "Name_Dev": "CH0193",
+            "Name_SC": "晴奈（体操服）",
+            "Name_TC": "羽留奈（體育服）",
+            "Name_Jp": "ハルナ(体操服)",
+            "Name_En": "Haruna(Track)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 4,
+            "Club": 13
+        },
+        "CH0071": {
+            "Name_Dev": "CH0071",
+            "Name_SC": "一花",
+            "Name_TC": "一花",
+            "Name_Jp": "イチカ",
+            "Name_En": "Ichika",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 19
+        },
+        "CH0089": {
+            "Name_Dev": "CH0089",
+            "Name_SC": "霞",
+            "Name_TC": "佳澄",
+            "Name_Jp": "カスミ",
+            "Name_En": "Kasumi",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 4,
+            "Club": 40
+        },
+        "CH0123": {
+            "Name_Dev": "CH0123",
+            "Name_SC": "时雨（温泉）",
+            "Name_TC": "時雨（溫泉）",
+            "Name_Jp": "シグレ(温泉)",
+            "Name_En": "Shigure(Hotspring)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 2,
+            "Club": 35
+        },
+        "CH9998": {
+            "Name_Dev": "CH9998",
+            "Name_SC": "御坂美琴",
+            "Name_TC": "御坂美琴",
+            "Name_Jp": " 御坂美琴",
+            "Name_En": "Misaka Mikoto",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 14,
+            "Club": 36
+        },
+        "CH9997": {
+            "Name_Dev": "CH9997",
+            "Name_SC": "食蜂操祈",
+            "Name_TC": "食蜂操祈",
+            "Name_Jp": "食蜂操祈",
+            "Name_En": "Shokuhou Misaki",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 14,
+            "Club": 36
+        },
+        "CH9996": {
+            "Name_Dev": "CH9996",
+            "Name_SC": "佐天泪子",
+            "Name_TC": "佐天涙子",
+            "Name_Jp": "佐天涙子",
+            "Name_En": "Saten Ruiko",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 15,
+            "Club": 36
+        },
+        "CH0161": {
+            "Name_Dev": "CH0161",
+            "Name_SC": "紫",
+            "Name_TC": "紫",
+            "Name_Jp": "ユカリ",
+            "Name_En": "Yukari",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 1,
+            "Club": 47
+        },
+        "CH0224": {
+            "Name_Dev": "CH0224",
+            "Name_SC": "莲华",
+            "Name_TC": "蓮華",
+            "Name_Jp": "レンゲ",
+            "Name_En": "Renge",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 1,
+            "Club": 47
+        },
+        "CH0225": {
+            "Name_Dev": "CH0225",
+            "Name_SC": "桔梗",
+            "Name_TC": "桔梗",
+            "Name_Jp": "キキョウ",
+            "Name_En": "Kikyou",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 1,
+            "Club": 47
+        },
+        "CH0219": {
+            "Name_Dev": "CH0219",
+            "Name_SC": "艾米（泳装）",
+            "Name_TC": "英美（泳裝）",
+            "Name_Jp": "エイミ(水着)",
+            "Name_En": "Eimi(Swimsuit)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 27
+        },
+        "CH0232": {
+            "Name_Dev": "CH0232",
+            "Name_SC": "小玉（露营）",
+            "Name_TC": "小玉（露營）",
+            "Name_Jp": "コタマ(キャンプ)",
+            "Name_En": "Kotama(Camp)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 29
+        },
+        "CH0233": {
+            "Name_Dev": "CH0233",
+            "Name_SC": "晴（露营）",
+            "Name_TC": "晴（露營）",
+            "Name_Jp": "ハレ(キャンプ)",
+            "Name_En": "Hare(Camp)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 29
+        },
+        "CH0079": {
+            "Name_Dev": "CH0079",
+            "Name_SC": "真琴",
+            "Name_TC": "真琴",
+            "Name_Jp": "マコト",
+            "Name_En": "Makoto",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 4,
+            "Club": 39
+        },
+        "CH0231": {
+            "Name_Dev": "CH0231",
+            "Name_SC": "亚子（礼服）",
+            "Name_TC": "亞子（禮服）",
+            "Name_Jp": "アコ(ドレス)",
+            "Name_En": "Ako(Dress)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 4,
+            "Club": 20
+        },
+        "Ibuki": {
+            "Name_Dev": "Ibuki",
+            "Name_SC": "伊吹",
+            "Name_TC": "伊吹",
+            "Name_Jp": "イブキ",
+            "Name_En": "Ibuki",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 4,
+            "Club": 39
+        },
+        "CH0230": {
+            "Name_Dev": "CH0230",
+            "Name_SC": "日奈（礼服）",
+            "Name_TC": "陽奈（禮服）",
+            "Name_Jp": "ヒナ(ドレス)",
+            "Name_En": "Hina(Dress)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 4,
+            "Club": 20
+        },
+        "CH0239": {
+            "Name_Dev": "CH0239",
+            "Name_SC": "佳代子（礼服）",
+            "Name_TC": "佳世子（禮服）",
+            "Name_Jp": "カヨコ(ドレス)",
+            "Name_En": "Kayoko(Dress)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 4,
+            "Club": 21
+        },
+        "CH0240": {
+            "Name_Dev": "CH0240",
+            "Name_SC": "爱露（礼服）",
+            "Name_TC": "亞瑠（禮服）",
+            "Name_Jp": "アル(ドレス)",
+            "Name_En": "Aru(Dress)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 4,
+            "Club": 21
+        },
+        "CH0196": {
+            "Name_Dev": "CH0196",
+            "Name_SC": "明里（正月）",
+            "Name_TC": "亞伽里（正月）",
+            "Name_Jp": "アカリ(新年)",
+            "Name_En": "Akari(Newyear)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 4,
+            "Club": 13
+        },
+        "CH0110": {
+            "Name_Dev": "CH0110",
+            "Name_SC": "海香",
+            "Name_TC": "海花",
+            "Name_Jp": "ウミカ",
+            "Name_En": "Umika",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 1,
+            "Club": 12
+        },
+        "CH0255": {
+            "Name_Dev": "CH0255",
+            "Name_SC": "椿（导游）",
+            "Name_TC": "椿（導覽員）",
+            "Name_Jp": "ツバキ（ガイド）",
+            "Name_En": "Tsubaki(Guide)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 1,
+            "Club": 32
+        },
+        "CH0250": {
+            "Name_Dev": "CH0250",
+            "Name_SC": "和纱（乐队）",
+            "Name_TC": "千紗（樂團）",
+            "Name_Jp": "カズサ(バンド)",
+            "Name_En": "Kazusa(Band)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 14
+        },
+        "CH0251": {
+            "Name_Dev": "CH0251",
+            "Name_SC": "爱理（乐队）",
+            "Name_TC": "愛莉（樂團）",
+            "Name_Jp": "アイリ(バンド)",
+            "Name_En": "Airi(Band)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 14
+        },
+        "CH0220": {
+            "Name_Dev": "CH0220",
+            "Name_SC": "好美（乐队）",
+            "Name_TC": "喜美（樂團）",
+            "Name_Jp": "ヨシミ(バンド)",
+            "Name_En": "Yoshimi(Band)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 14
+        },
+        "Kirara": {
+            "Name_Dev": "Kirara",
+            "Name_SC": "绮罗罗",
+            "Name_TC": "綺羅羅",
+            "Name_Jp": "キララ",
+            "Name_En": "Kirara",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 4,
+            "Club": 48
+        },
+        "CH0201": {
+            "Name_Dev": "CH0201",
+            "Name_SC": "桃（女仆）",
+            "Name_TC": "桃井（女僕）",
+            "Name_Jp": "モモイ(メイド)",
+            "Name_En": "Momoi(Maids)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 24
+        },
+        "CH0202": {
+            "Name_Dev": "CH0202",
+            "Name_SC": "绿（女仆）",
+            "Name_TC": "綠（女僕）",
+            "Name_Jp": "ミドリ(メイド)",
+            "Name_En": "Midori(Maids)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 24
+        },
+        "CH0189": {
+            "Name_Dev": "CH0189",
+            "Name_SC": "芹香（泳装）",
+            "Name_TC": "茜香（泳裝）",
+            "Name_Jp": "セリカ(水着)",
+            "Name_En": "Serika(Swimsuit)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 5,
+            "Club": 10
+        },
+        "CH0260": {
+            "Name_Dev": "CH0260",
+            "Name_SC": "康娜（泳装）",
+            "Name_TC": "環奈（泳裝）",
+            "Name_Jp": "カンナ(水着)",
+            "Name_En": "Kanna(Swimsuit)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 9,
+            "Club": 42
+        },
+        "CH0261": {
+            "Name_Dev": "CH0261",
+            "Name_SC": "吹雪（泳装）",
+            "Name_TC": "吹雪（泳裝）",
+            "Name_Jp": "フブキ(水着)",
+            "Name_En": "Fubuki(Swimsuit)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 9,
+            "Club": 25
+        },
+        "CH0262": {
+            "Name_Dev": "CH0262",
+            "Name_SC": "桐乃（泳装）",
+            "Name_TC": "桐乃（泳裝）",
+            "Name_Jp": "キリノ(水着)",
+            "Name_En": "Kirino(Swimsuit)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 9,
+            "Club": 25
+        },
+        "CH0216": {
+            "Name_Dev": "CH0216",
+            "Name_SC": "萌绘（泳装）",
+            "Name_TC": "萌（泳裝）",
+            "Name_Jp": "モエ(水着)",
+            "Name_En": "Moe(Swimsuit)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 11,
+            "Club": 38
+        },
+        "CH0258": {
+            "Name_Dev": "CH0258",
+            "Name_SC": "星野（临战）",
+            "Name_TC": "星野（武裝）",
+            "Name_Jp": "ホシノ(臨戦)",
+            "Name_En": "Hoshino(Armed)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 5,
+            "Club": 10
+        },
+        "CH0263": {
+            "Name_Dev": "CH0263",
+            "Name_SC": "白子＊恐怖",
+            "Name_TC": "白子＊TERROR",
+            "Name_Jp": "シロコ＊テラー",
+            "Name_En": "Shiroko*Terror",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 5,
+            "Club": 49
+        },
+        "CH0266": {
+            "Name_Dev": "CH0266",
+            "Name_SC": "纱织（泳装）",
+            "Name_TC": "沙織（泳裝）",
+            "Name_Jp": "サオリ(水着)",
+            "Name_En": "Saori(Swimsuit)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 7,
+            "Club": 18
+        },
+        "CH0269": {
+            "Name_Dev": "CH0269",
+            "Name_SC": "日和（泳装）",
+            "Name_TC": "日和（泳裝）",
+            "Name_Jp": "ヒヨリ(水着)",
+            "Name_En": "Hiyori(Swimsuit)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 7,
+            "Club": 18
+        },
+        "CH0267": {
+            "Name_Dev": "CH0267",
+            "Name_SC": "亚津子（泳装）",
+            "Name_TC": "敦子（泳裝）",
+            "Name_Jp": "アツコ(水着)",
+            "Name_En": "Atsuko(Swimsuit)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 7,
+            "Club": 18
+        },
+        "CH0270": {
+            "Name_Dev": "CH0270",
+            "Name_SC": "真里奈（旗袍）",
+            "Name_TC": "瑪麗娜（旗袍）",
+            "Name_Jp": "マリナ(チーパオ)",
+            "Name_En": "Marina(Qipao)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 2,
+            "Club": 15
+        },
+        "CH0271": {
+            "Name_Dev": "CH0271",
+            "Name_SC": "巴（旗袍）",
+            "Name_TC": "智惠（旗袍）",
+            "Name_Jp": "トモエ(チーパオ)",
+            "Name_En": "Tomoe(Qipao)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 2,
+            "Club": 15
+        },
+        "Reizyo": {
+            "Name_Dev": "Reizyo",
+            "Name_SC": "丽情",
+            "Name_TC": "令女",
+            "Name_Jp": "レイジョ",
+            "Name_En": "Reijo",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 8,
+            "Club": 44
+        },
+        "CH0139": {
+            "Name_Dev": "CH0139",
+            "Name_SC": "妃咲",
+            "Name_TC": "妃姬",
+            "Name_Jp": "キサキ",
+            "Name_En": "Kisaki",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 8,
+            "Club": 43
+        },
+        "CH0273": {
+            "Name_Dev": "CH0273",
+            "Name_SC": "玛丽（偶像）",
+            "Name_TC": "瑪麗（偶像）",
+            "Name_Jp": "マリー(アイドル)",
+            "Name_En": "Mari(Idol)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 23
+        },
+        "CH0274": {
+            "Name_Dev": "CH0274",
+            "Name_SC": "樱子（偶像）",
+            "Name_TC": "櫻子（偶像）",
+            "Name_Jp": "サクラコ(アイドル)",
+            "Name_En": "Sakurako(Idol)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 23
+        },
+        "CH0275": {
+            "Name_Dev": "CH0275",
+            "Name_SC": "美祢（偶像）",
+            "Name_TC": "美禰（偶像）",
+            "Name_Jp": "ミネ(アイドル)",
+            "Name_En": "Mine(Idol)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 3
+        },
+        "CH0080": {
+            "Name_Dev": "CH0080",
+            "Name_SC": "皋月",
+            "Name_TC": "皐月",
+            "Name_Jp": "サツキ",
+            "Name_En": "Satsuki",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 4,
+            "Club": 39
+        },
+        "CH0238": {
+            "Name_Dev": "CH0238",
+            "Name_SC": "千明",
+            "Name_TC": "千秋",
+            "Name_Jp": "チアキ",
+            "Name_En": "Chiaki",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 4,
+            "Club": 39
+        },
+        "CH0284": {
+            "Name_Dev": "CH0284",
+            "Name_SC": "优香（睡衣）",
+            "Name_TC": "優香（睡衣）",
+            "Name_Jp": "ユウカ(パジャマ)",
+            "Name_En": "Yuuka(Pajamas)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 17
+        },
+        "CH0285": {
+            "Name_Dev": "CH0285",
+            "Name_SC": "诺亚（睡衣）",
+            "Name_TC": "乃愛（睡衣）",
+            "Name_Jp": "ノア(パジャマ)",
+            "Name_En": "Noa(Pajamas)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 17
+        },
+        "CH0070": {
+            "Name_Dev": "CH0070",
+            "Name_SC": "圣娅",
+            "Name_TC": "聖亞",
+            "Name_Jp": "セイア",
+            "Name_En": "Seia",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 41
+        },
+        "CH0281": {
+            "Name_Dev": "CH0281",
+            "Name_SC": "明日奈（制服）",
+            "Name_TC": "明日奈（制服）",
+            "Name_Jp": "アスナ(制服)",
+            "Name_En": "Asuna(School)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 2
+        },
+        "CH0282": {
+            "Name_Dev": "CH0282",
+            "Name_SC": "花凛（制服）",
+            "Name_TC": "花凛（制服）",
+            "Name_Jp": "カリン(制服)",
+            "Name_En": "Karin(School)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 2
+        },
+        "CH0158": {
+            "Name_Dev": "CH0158",
+            "Name_SC": "莉音",
+            "Name_TC": "莉央",
+            "Name_Jp": "リオ",
+            "Name_En": "Rio",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 17
+        },
+        "CH0280": {
+            "Name_Dev": "CH0280",
+            "Name_SC": "妮露（制服）",
+            "Name_TC": "寧瑠（制服）",
+            "Name_Jp": "ネル(制服)",
+            "Name_En": "Neru(School)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 2
+        },
+        "CH0235": {
+            "Name_Dev": "CH0235",
+            "Name_SC": "真纪（露营）",
+            "Name_TC": "真紀（露营）",
+            "Name_Jp": "マキ(キャンプ)",
+            "Name_En": "Maki(Camp)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 29
+        },
+        "CH0082": {
+            "Name_Dev": "CH0082",
+            "Name_SC": "濑名（便服）",
+            "Name_TC": "瀬奈（私服）",
+            "Name_Jp": " セナ(私服)",
+            "Name_En": "Sena(Casual)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 4,
+            "Club": 37
+        },
+        "CH0286": {
+            "Name_Dev": "CH0286",
+            "Name_SC": "朱莉（打工）",
+            "Name_TC": "茱莉（打工）",
+            "Name_Jp": "ジュリ(アルバイト)",
+            "Name_En": "Juri(Part-Timer)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 4,
+            "Club": 9
+        },
+        "CH0197": {
+            "Name_Dev": "CH0197",
+            "Name_SC": "泉（正月）",
+            "Name_TC": "泉（正月）",
+            "Name_Jp": "イズミ(正月)",
+            "Name_En": "Izumi(NewYear)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 4,
+            "Club": 13
+        },
+        "CH0287": {
+            "Name_Dev": "CH0287",
+            "Name_SC": "堇（打工）",
+            "Name_TC": "堇（打工）",
+            "Name_Jp": "スミレ(アルバイト)",
+            "Name_En": "Sumire(Part-Timer)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 30
+        },
+        "CH0245": {
+            "Name_Dev": "CH0245",
+            "Name_SC": "丽",
+            "Name_TC": "莉",
+            "Name_Jp": "レイ",
+            "Name_En": "Rei",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 30
+        },
+        "CH0259": {
+            "Name_Dev": "CH0259",
+            "Name_SC": "纱织（礼服）",
+            "Name_TC": "沙織（禮服）",
+            "Name_Jp": "サオリ(ドレス)",
+            "Name_En": "Saori(Dress)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 7,
+            "Club": 18
+        },
+        "CH0242": {
+            "Name_Dev": "CH0242",
+            "Name_SC": "光",
+            "Name_TC": "光",
+            "Name_Jp": "ヒカリ",
+            "Name_En": "Hikari",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 16,
+            "Club": 50
+        },
+        "CH0243": {
+            "Name_Dev": "CH0243",
+            "Name_SC": "望",
+            "Name_TC": "希望",
+            "Name_Jp": "ノゾミ",
+            "Name_En": "Nozomi",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 16,
+            "Club": 50
+        },
+        "CH0288": {
+            "Name_Dev": "CH0288",
+            "Name_SC": "青叶",
+            "Name_TC": "青葉",
+            "Name_Jp": "アオバ",
+            "Name_En": "Aoba",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 16,
+            "Club": 51
+        },
+        "CH0257": {
+            "Name_Dev": "CH0257",
+            "Name_SC": "菲娜（导游）",
+            "Name_TC": "菲娜（導覽員）",
+            "Name_Jp": "フィーナ(ガイド)",
+            "Name_En": "Fina(Guide)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 1,
+            "Club": 12
+        },
+        "CH0222": {
+            "Name_Dev": "CH0222",
+            "Name_SC": "名草",
+            "Name_TC": "名草",
+            "Name_Jp": "ナグサ",
+            "Name_En": "Nagusa",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 1,
+            "Club": 47
+        },
+        "CH0109": {
+            "Name_Dev": "CH0109",
+            "Name_SC": "尼娅",
+            "Name_TC": "仁耶",
+            "Name_Jp": "ニヤ",
+            "Name_En": "Niya",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 1,
+            "Club": 31
+        },
+        "CH0221": {
+            "Name_Dev": "CH0221",
+            "Name_SC": "夏（乐队）",
+            "Name_TC": "夏（樂團）",
+            "Name_Jp": "ナツ(バンド)",
+            "Name_En": "Natsu(Band)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 14
+        },
+        "CH0300": {
+            "Name_Dev": "CH0300",
+            "Name_SC": "桔梗（泳装）",
+            "Name_TC": "桔梗（泳裝）",
+            "Name_Jp": "キキョウ(水着)",
+            "Name_En": "Kikyo(Swimsuit)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 1,
+            "Club": 47
+        },
+        "CH0302": {
+            "Name_Dev": "CH0302",
+            "Name_SC": "莲华（泳装）",
+            "Name_TC": "蓮華（泳裝）",
+            "Name_Jp": "レンゲ(水着)",
+            "Name_En": "Renge(Swimsuit)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 1,
+            "Club": 47
+        },
+        "CH0301": {
+            "Name_Dev": "CH0301",
+            "Name_SC": "紫（泳装）",
+            "Name_TC": "紫（泳裝）",
+            "Name_Jp": "ユカリ(水着)",
+            "Name_En": "Yukari(Swimsuit)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 1,
+            "Club": 47
+        },
+        "CH0295": {
+            "Name_Dev": "CH0295",
+            "Name_SC": "圣娅（泳装）",
+            "Name_TC": "聖亞（泳裝）",
+            "Name_Jp": "セイア(水着)",
+            "Name_En": "Seia(Swimsuit)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 41
+        },
+        "CH0291": {
+            "Name_Dev": "CH0291",
+            "Name_SC": "莲见（泳装）",
+            "Name_TC": "蓮實（泳裝）",
+            "Name_Jp": "ハスミ(水着)",
+            "Name_En": "Hasumi(Swimsuit)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 19
+        },
+        "CH0292": {
+            "Name_Dev": "CH0292",
+            "Name_SC": "一花（泳装）",
+            "Name_TC": "一花（泳裝）",
+            "Name_Jp": "イチカ(水着)",
+            "Name_En": "Ichika(Swimsuit)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 19
+        },
+        "CH0293": {
+            "Name_Dev": "CH0293",
+            "Name_SC": "渚（泳装）",
+            "Name_TC": "渚（泳裝）",
+            "Name_Jp": "ナギサ(水着)",
+            "Name_En": "Nagisa(Swimsuit)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 41
+        },
+        "CH0294": {
+            "Name_Dev": "CH0294",
+            "Name_SC": "未花（泳装）",
+            "Name_TC": "彌香（泳裝）",
+            "Name_Jp": "ミカ(水着)",
+            "Name_En": "Mika(Swimsuit)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 41
+        },
+        "CH0304": {
+            "Name_Dev": "CH0304",
+            "Name_SC": "绘里",
+            "Name_TC": "繪里",
+            "Name_Jp": "エリ",
+            "Name_En": "Eri",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 10,
+            "Club": 52
+        },
+        "CH0306": {
+            "Name_Dev": "CH0306",
+            "Name_SC": "庚",
+            "Name_TC": "庚",
+            "Name_Jp": "カノエ",
+            "Name_En": "Kanoe",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 10,
+            "Club": 52
+        },
+        "CH0268": {
+            "Name_Dev": "CH0268",
+            "Name_SC": "美咲（泳装）",
+            "Name_TC": "美咲（泳裝）",
+            "Name_Jp": "ミサキ",
+            "Name_En": "Misaki(swimsuit)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 7,
+            "Club": 18
+        },
+        "CH0317": {
+            "Name_Dev": "CH0317",
+            "Name_SC": "美代",
+            "Name_TC": "美代",
+            "Name_Jp": "ミヨ",
+            "Name_En": "Miyo",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 10,
+            "Club": 54
+        },
+        "CH0318": {
+            "Name_Dev": "CH0318",
+            "Name_SC": "冬",
+            "Name_TC": "冬",
+            "Name_Jp": "フユ",
+            "Name_En": "Fuyu",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 10,
+            "Club": 54
+        },
+        "CH0319": {
+            "Name_Dev": "CH0319",
+            "Name_SC": "律",
+            "Name_TC": "律",
+            "Name_Jp": "リツ",
+            "Name_En": "Ritsu",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 10,
+            "Club": 54
+        },
+        "CH0325": {
+            "Name_Dev": "CH0325",
+            "Name_SC": "铃美（魔法少女）",
+            "Name_TC": "鈴美（魔法少女）",
+            "Name_Jp": "スズミ(マジカル)",
+            "Name_En": "Suzumi(Magical)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 28
+        },
+        "CH0326": {
+            "Name_Dev": "CH0326",
+            "Name_SC": "玲纱（魔法少女）",
+            "Name_TC": "澪紗（魔法少女）",
+            "Name_Jp": "レイサ(マジカル)",
+            "Name_En": "Reisa(Magical)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 28
+        },
+        "CH0166": {
+            "Name_Dev": "CH0166",
+            "Name_SC": "兰舞",
+            "Name_TC": "良舞",
+            "Name_Jp": "ラブ",
+            "Name_En": "Rabu",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 3,
+            "Club": 36
+        },
+        "CH0309": {
+            "Name_Dev": "CH0309",
+            "Name_SC": "昴",
+            "Name_TC": "昴",
+            "Name_Jp": "スバル",
+            "Name_En": "Subaru",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 7,
+            "Club": 55
+        },
+        "CH0229": {
+            "Name_Dev": "CH0229",
+            "Name_SC": "贵音",
+            "Name_TC": "貴音",
+            "Name_Jp": "タカネ",
+            "Name_En": "Takane",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 2,
+            "Club": 56
+        },
+        "CH0228": {
+            "Name_Dev": "CH0228",
+            "Name_SC": "八云",
+            "Name_TC": "八雲",
+            "Name_Jp": "ヤクモ",
+            "Name_En": "Yakumo",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 2,
+            "Club": 56
+        },
+        "CH0297": {
+            "Name_Dev": "CH0297",
+            "Name_SC": "月咏（礼服）",
+            "Name_TC": "月夜（禮服）",
+            "Name_Jp": "ツクヨ（ドレス）",
+            "Name_En": "Tsukuyo (Dress)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 2,
+            "Club": 56
+        },
+        "CH0296": {
+            "Name_Dev": "CH0296",
+            "Name_SC": "满（礼服）",
+            "Name_TC": "三千留（禮服）",
+            "Name_Jp": "ミチル（ドレス）",
+            "Name_En": "Michiru (Dress)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 2,
+            "Club": 56
+        },
+        "CH0331": {
+            "Name_Dev": "CH0331",
+            "Name_SC": "莉音（临战）",
+            "Name_TC": "莉央（臨戰）",
+            "Name_Jp": "リオン(臨戦)",
+            "Name_En": "Rion(Armed)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 17
+        },
+        "CH0332": {
+            "Name_Dev": "CH0332",
+            "Name_SC": "日鞠（临战）",
+            "Name_TC": "陽葵（武裝）",
+            "Name_Jp": "ヒマリ(臨戦)",
+            "Name_En": "Himari(Armed)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 27
+        },
+        "CH0333": {
+            "Name_Dev": "CH0333",
+            "Name_SC": "时（临战）",
+            "Name_TC": "季（武裝）",
+            "Name_Jp": "トキ(臨戦)",
+            "Name_En": "Toki(Armed)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 2
+        },
+        "CH0334": {
+            "Name_Dev": "CH0334",
+            "Name_SC": "爱丽丝（临战）",
+            "Name_TC": "愛麗絲（武裝）",
+            "Name_Jp": "アリス(臨戦)",
+            "Name_En": "Alice(Armed)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 24
+        },
+        "CH0335": {
+            "Name_Dev": "CH0335",
+            "Name_SC": "凯伊",
+            "Name_TC": "Kei",
+            "Name_Jp": "ケイ",
+            "Name_En": "Kei",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 30
+        },
+        "CH0336": {
+            "Name_Dev": "CH0336",
+            "Name_SC": "柚子（临战）",
+            "Name_TC": "柚子（武裝）",
+            "Name_Jp": "ユズ(臨戦)",
+            "Name_En": "Yuzu(Armed)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 24
+        },
+        "CH0337":{
+            "Name_Dev": "CH0337",
+            "Name_SC": "艾米（临战）",
+            "Name_TC": "艾米（武裝）",
+            "Name_Jp": "エイミ(臨戦)",
+            "Name_En": "Eimi(Armed)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 27
+        },
+        "CH0310": {
+            "Name_Dev": "CH0310",
+            "Name_SC": "小雪 (睡衣)",
+            "Name_TC": "小雪（睡衣）",
+            "Name_Jp": "コユキ（パジャマ）",
+            "Name_En": "Koyuki (Pajama)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 6,
+            "Club": 17
+        },
+        "SC11000_01": {
+            "Name_Dev": "SC11000_01",
+            "Name_SC": "Vol.1 第一章 02",
+            "Name_TC": "",
+            "Name_Jp": "",
+            "Name_En": "",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 0,
+            "Club": 0
+        },
+        "SC12000_02": {
+            "Name_Dev": "SC12000_02",
+            "Name_SC": "Vol.1 第二章 19",
+            "Name_TC": "",
+            "Name_Jp": "",
+            "Name_En": "",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 0,
+            "Club": 0
+        },
+        "SC51000_01": {
+            "Name_Dev": "SC51000_01",
+            "Name_SC": "Vol.5 第一章 23",
+            "Name_TC": "",
+            "Name_Jp": "",
+            "Name_En": "",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 0,
+            "Club": 0
+        },
+        "SC51000_02": {
+            "Name_Dev": "SC51000_02",
+            "Name_SC": "Vol.5 第一章 24",
+            "Name_TC": "",
+            "Name_Jp": "",
+            "Name_En": "",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 0,
+            "Club": 0
+        },
+        "SC52000_01": {
+            "Name_Dev": "SC52000_01",
+            "Name_SC": "Vol.5 第二章 27",
+            "Name_TC": "",
+            "Name_Jp": "",
+            "Name_En": "",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 0,
+            "Club": 0
+        },
+        "SC52000_02": {
+            "Name_Dev": "SC52000_02",
+            "Name_SC": "Vol.5 第二章 27",
+            "Name_TC": "",
+            "Name_Jp": "",
+            "Name_En": "",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 0,
+            "Club": 0
+        },
+        "SC61000_01": {
+            "Name_Dev": "SC61000_01",
+            "Name_SC": "Vol.6 第一章 07",
+            "Name_TC": "",
+            "Name_Jp": "",
+            "Name_En": "",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 0,
+            "Club": 0
+        },
+        "SC62000_01": {
+            "Name_Dev": "SC62000_01",
+            "Name_SC": "Vol.6 第二章 05",
+            "Name_TC": "",
+            "Name_Jp": "",
+            "Name_En": "",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 0,
+            "Club": 0
+        },
+        "SC63000_01": {
+            "Name_Dev": "SC63000_01",
+            "Name_SC": "Vol.6 第三章 10",
+            "Name_TC": "",
+            "Name_Jp": "",
+            "Name_En": "",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 0,
+            "Club": 0
+        },
+        "SC1200001_01": {
+            "Name_Dev": "SC1200001_01",
+            "Name_SC": "Vol.1 第二章 19",
+            "Name_TC": "",
+            "Name_Jp": "",
+            "Name_En": "",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 0,
+            "Club": 0
+        },
+        "SC1200001_02": {
+            "Name_Dev": "SC1200001_02",
+            "Name_SC": "Vol.1 第二章 19",
+            "Name_TC": "",
+            "Name_Jp": "",
+            "Name_En": "",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 0,
+            "Club": 0
+        },
+        "SC90002000_01": {
+            "Name_Dev": "SC90002000_01",
+            "Name_SC": "Vol.EX 第三章 21",
+            "Name_TC": "",
+            "Name_Jp": "",
+            "Name_En": "",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 0,
+            "Club": 0
+        },
+        "SC90002000_02": {
+            "Name_Dev": "SC90002000_02",
+            "Name_SC": "Vol.EX 第三章 21",
+            "Name_TC": "",
+            "Name_Jp": "",
+            "Name_En": "",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 0,
+            "Club": 0
+        },
+        "SC90002000_03": {
+            "Name_Dev": "SC90002000_03",
+            "Name_SC": "Vol.EX 第三章 21",
+            "Name_TC": "",
+            "Name_Jp": "",
+            "Name_En": "",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 0,
+            "Club": 0
+        },
+        "SC90002000_04": {
+            "Name_Dev": "SC90002000_04",
+            "Name_SC": "Vol.EX 第三章 21",
+            "Name_TC": "",
+            "Name_Jp": "",
+            "Name_En": "",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 0,
+            "Club": 0
+        }
+    }
+}

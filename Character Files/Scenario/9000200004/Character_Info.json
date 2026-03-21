@@ -1,0 +1,34 @@
+{
+  "Scenario_Id": 9000200004,
+  "Prefab_Name": "SC90002000_04",
+  "Bundles": {
+    "Entries": [
+      {
+        "Region": 3,
+        "Platform": 2,
+        "Main_Bundle": "ui-uilobbyelement-_mxload-prefabs-2026-01-26_assets_all_1223985462.bundle",
+        "Resource_Bundle_List": [
+          "AssetBundles\\assets-_mx-spinebackground-spinebg-_mxdependency-materials-2025-07-02_assets_all_3162790454.bundle",
+          "AssetBundles\\assets-_mx-spinebackground-spinebg-_mxdependency-assets-2026-01-26_assets_all_572397854.bundle",
+          "AssetBundles\\assets-_mx-spinebackground-spinebg-_mxdependency-textassets-2026-01-26_assets_all_3030532819.bundle",
+          "AssetBundles\\assets-_mx-spinebackground-spinebg-_mxdependency-timelines-2026-01-26_assets_all_2397510772.bundle",
+          "AssetBundles\\assets-_mx-spinebackground-spinebg-_mxdependency-materials-2026-01-26_assets_all_3398467846.bundle",
+          "AssetBundles\\assets-_mx-spinebackground-spinebg-_mxdependency-textures-2025-07-02_assets_all_784672444.bundle",
+          "AssetBundles\\assets-_mx-spinebackground-spinebg-_mxdependency-textures-2026-01-26_assets_all_3388617907.bundle"
+        ],
+        "Dependency_Bundle_List": [
+          "MX_monoscripts_3981838347.bundle",
+          "prologdepengroup-assets-_mx-uis-atlas-_mxprolog-2025-07-02_assets_all_3359745090.bundle",
+          "assets-_mx-spinelobbies-_mxcommon-_mxdependency-materials-2025-07-02_assets_all_149539334.bundle",
+          "assets-_mx-spinelobbies-_mxcommon-_mxdependency-assets-2025-07-02_assets_all_3657483517.bundle",
+          "assets-_mx-spinelobbies-_mxcommon-_mxdependency-textures-2025-07-02_assets_all_1219719739.bundle",
+          "prologgroup-assets-_mx-addressableasset-audio-audiomixer-_mxprolog-2025-07-02_assets_all_2266188573.bundle",
+          "assets-_mx-shaders-_mxdependency-shaders-2025-07-02_assets_all_3046151907.bundle",
+          "prologdepengroup-assets-_mx-shaders-_mxprolog-2025-07-02_assets_all_222426929.bundle",
+          "prologdepengroup-assets-ngui-resources-shaders-_mxprolog-2025-07-02_assets_all_1067322330.bundle",
+          "MX_unitybuiltinshaders_4156112658.bundle"
+        ]
+      }
+    ]
+  }
+}

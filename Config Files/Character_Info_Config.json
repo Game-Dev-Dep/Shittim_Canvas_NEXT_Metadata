@@ -1291,6 +1291,16 @@
             "Value": "CH0310"
         },
         {
+            "Type": 1,
+            "Character_Id": 10137,
+            "Value": "CH0264"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10138,
+            "Value": "CH0305"
+        },
+        {
             "Type": 3,
             "Character_Id": 1100001,
             "Value": "SC11000_01"
@@ -4200,6 +4210,28 @@
             "Nicknames": [],
             "School": 6,
             "Club": 17
+        },
+        "CH0264": {
+            "Name_Dev": "CH0264",
+            "Name_SC": "心华",
+            "Name_TC": "木乃香",
+            "Name_Jp": "コノカ",
+            "Name_En": "konoka",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 9,
+            "Club": 42
+        },
+        "CH0305": {
+            "Name_Dev": "CH0305",
+            "Name_SC": "莱娜",
+            "Name_TC": "玲奈",
+            "Name_Jp": "レナ",
+            "Name_En": "Rena",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 10,
+            "Club": 52
         },
         "SC11000_01": {
             "Name_Dev": "SC11000_01",

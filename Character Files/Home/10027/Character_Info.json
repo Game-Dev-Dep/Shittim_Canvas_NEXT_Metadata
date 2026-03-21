@@ -354,75 +354,7 @@
             "BGName": 0,
             "BGEffect": 0,
             "PopupFileName": "",
-            "ScriptKr": "#wait;5620",
-            "TextJp": "",
-            "VoiceId": 0
-          },
-          {
-            "ByteBuffer": {
-              "Position": 0,
-              "Length": 176
-            },
-            "GroupId": 1002702,
-            "SelectionGroup": 0,
-            "BGMId": 0,
-            "Sound": "",
-            "Transition": 0,
-            "BGName": 0,
-            "BGEffect": 0,
-            "PopupFileName": "",
-            "ScriptKr": "#st;[-1200,-530];serial;60;[wa:50]― ……윽……!?",
-            "TextJp": "[wa:50]― ……うぇっ！？",
-            "VoiceId": 0
-          },
-          {
-            "ByteBuffer": {
-              "Position": 0,
-              "Length": 96
-            },
-            "GroupId": 1002702,
-            "SelectionGroup": 0,
-            "BGMId": 0,
-            "Sound": "",
-            "Transition": 0,
-            "BGName": 0,
-            "BGEffect": 0,
-            "PopupFileName": "",
-            "ScriptKr": "#wait;3000",
-            "TextJp": "",
-            "VoiceId": 0
-          },
-          {
-            "ByteBuffer": {
-              "Position": 0,
-              "Length": 96
-            },
-            "GroupId": 1002702,
-            "SelectionGroup": 0,
-            "BGMId": 0,
-            "Sound": "",
-            "Transition": 0,
-            "BGName": 0,
-            "BGEffect": 0,
-            "PopupFileName": "",
             "ScriptKr": "#clearST",
-            "TextJp": "",
-            "VoiceId": 0
-          },
-          {
-            "ByteBuffer": {
-              "Position": 0,
-              "Length": 96
-            },
-            "GroupId": 1002702,
-            "SelectionGroup": 0,
-            "BGMId": 0,
-            "Sound": "",
-            "Transition": 0,
-            "BGName": 0,
-            "BGEffect": 0,
-            "PopupFileName": "",
-            "ScriptKr": "#wait;5000",
             "TextJp": "",
             "VoiceId": 0
           },

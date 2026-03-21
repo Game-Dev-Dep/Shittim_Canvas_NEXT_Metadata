@@ -904,23 +904,6 @@
             "ScriptKr": "#clearST",
             "TextJp": "",
             "VoiceId": 0
-          },
-          {
-            "ByteBuffer": {
-              "Position": 0,
-              "Length": 224
-            },
-            "GroupId": 1600306,
-            "SelectionGroup": 0,
-            "BGMId": 0,
-            "Sound": "",
-            "Transition": 0,
-            "BGName": 0,
-            "BGEffect": 0,
-            "PopupFileName": "",
-            "ScriptKr": "#na;스즈미;……확실하게 말씀드리는 날이, 왔으면 좋겠다고 생각합니다.",
-            "TextJp": "きちんと、伝えられればと。",
-            "VoiceId": 0
           }
         ]
       }

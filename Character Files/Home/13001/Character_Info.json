@@ -871,7 +871,7 @@
             "BGName": 1113212556,
             "BGEffect": 0,
             "PopupFileName": "",
-            "ScriptKr": "#st;[-568,566];smooth;140;날저물어도",
+            "ScriptKr": "#st;[-568,566];serial;140;날저물어도",
             "TextJp": "日は暮れど",
             "VoiceId": 0
           },
@@ -905,7 +905,7 @@
             "BGName": 0,
             "BGEffect": 0,
             "PopupFileName": "",
-            "ScriptKr": "#st;[-884,455];smooth;140;지금도계속되네",
+            "ScriptKr": "#st;[-884,455];serial;140;지금도계속되네",
             "TextJp": "今なお続く",
             "VoiceId": 0
           },
@@ -939,7 +939,7 @@
             "BGName": 0,
             "BGEffect": 0,
             "PopupFileName": "",
-            "ScriptKr": "#st;[-1200,344];smooth;140;둘의발소리",
+            "ScriptKr": "#st;[-1200,344];serial;140;둘의발소리",
             "TextJp": "音ふたつ",
             "VoiceId": 0
           },
@@ -1269,125 +1269,6 @@
           {
             "ByteBuffer": {
               "Position": 0,
-              "Length": 96
-            },
-            "GroupId": 1300105,
-            "SelectionGroup": 0,
-            "BGMId": 0,
-            "Sound": "",
-            "Transition": 0,
-            "BGName": 0,
-            "BGEffect": 0,
-            "PopupFileName": "",
-            "ScriptKr": "#wait;6500",
-            "TextJp": "",
-            "VoiceId": 0
-          },
-          {
-            "ByteBuffer": {
-              "Position": 0,
-              "Length": 96
-            },
-            "GroupId": 1300105,
-            "SelectionGroup": 0,
-            "BGMId": 0,
-            "Sound": "",
-            "Transition": 0,
-            "BGName": 0,
-            "BGEffect": 0,
-            "PopupFileName": "",
-            "ScriptKr": "#clearST",
-            "TextJp": "",
-            "VoiceId": 0
-          },
-          {
-            "ByteBuffer": {
-              "Position": 0,
-              "Length": 216
-            },
-            "GroupId": 1300105,
-            "SelectionGroup": 0,
-            "BGMId": 0,
-            "Sound": "",
-            "Transition": 0,
-            "BGName": 0,
-            "BGEffect": 0,
-            "PopupFileName": "",
-            "ScriptKr": "[ns] \"응, 진짜 있는 그대로 아름답다는 뜻이구나…….\"",
-            "TextJp": "[ns] \"あ、文字通り美しいって意味ね……。\"",
-            "VoiceId": 0
-          },
-          {
-            "ByteBuffer": {
-              "Position": 0,
-              "Length": 96
-            },
-            "GroupId": 1300105,
-            "SelectionGroup": 0,
-            "BGMId": 0,
-            "Sound": "",
-            "Transition": 0,
-            "BGName": 0,
-            "BGEffect": 0,
-            "PopupFileName": "",
-            "ScriptKr": "#wait;2500",
-            "TextJp": "",
-            "VoiceId": 0
-          },
-          {
-            "ByteBuffer": {
-              "Position": 0,
-              "Length": 256
-            },
-            "GroupId": 1300105,
-            "SelectionGroup": 0,
-            "BGMId": 0,
-            "Sound": "",
-            "Transition": 0,
-            "BGName": 0,
-            "BGEffect": 0,
-            "PopupFileName": "",
-            "ScriptKr": "[ns11] \"그러게, 치세 말대로 정말…….\"\n[ns12] \"달이 아름다운걸.\"",
-            "TextJp": "[ns11] \"うん、チセの言う通り、本当に……。\"\n[ns12] \"月が綺麗だ。\"",
-            "VoiceId": 0
-          },
-          {
-            "ByteBuffer": {
-              "Position": 0,
-              "Length": 104
-            },
-            "GroupId": 1300105,
-            "SelectionGroup": 11,
-            "BGMId": 0,
-            "Sound": "",
-            "Transition": 0,
-            "BGName": 0,
-            "BGEffect": 0,
-            "PopupFileName": "",
-            "ScriptKr": "#wait;1500",
-            "TextJp": "",
-            "VoiceId": 0
-          },
-          {
-            "ByteBuffer": {
-              "Position": 0,
-              "Length": 104
-            },
-            "GroupId": 1300105,
-            "SelectionGroup": 12,
-            "BGMId": 0,
-            "Sound": "",
-            "Transition": 0,
-            "BGName": 0,
-            "BGEffect": 0,
-            "PopupFileName": "",
-            "ScriptKr": "#wait;1500",
-            "TextJp": "",
-            "VoiceId": 0
-          },
-          {
-            "ByteBuffer": {
-              "Position": 0,
               "Length": 104
             },
             "GroupId": 1300105,
@@ -1400,23 +1281,6 @@
             "PopupFileName": "",
             "ScriptKr": "#all;hide",
             "TextJp": "",
-            "VoiceId": 0
-          },
-          {
-            "ByteBuffer": {
-              "Position": 0,
-              "Length": 272
-            },
-            "GroupId": 1300105,
-            "SelectionGroup": 0,
-            "BGMId": 0,
-            "Sound": "",
-            "Transition": 0,
-            "BGName": 0,
-            "BGEffect": 0,
-            "PopupFileName": "",
-            "ScriptKr": "#na;(그렇게 치세와 둘이 앉아, 한동안 달구경을 하며 시간을 보냈다.)",
-            "TextJp": "（そうやってチセの隣に座って、一緒に月を見て長い時間を過ごした）",
             "VoiceId": 0
           }
         ]

@@ -1,0 +1,14 @@
+{
+  "Character_Id": 10001,
+  "Character_Name": "Custom_02",
+  "Character_Scale": 1,
+  "Files": {
+    "Atlas_File_Path": "skeleton.atlas.txt",
+    "Skel_File_Path": "skeleton.json",
+    "Texture_File_Path_List": [
+        "skeleton.png",
+        "skeleton_2.png",
+        "skeleton_3.png"
+    ]
+  }
+}

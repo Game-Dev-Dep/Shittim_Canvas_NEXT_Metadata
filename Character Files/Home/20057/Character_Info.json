@@ -1,0 +1,1304 @@
+{
+  "Character_Id": 20057,
+  "Dev_Name": "CH0307",
+  "Prefab_Name": "LobbyCH0307",
+  "Texture_Path": "Assets/_MX/AddressableAsset/UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_CH0307_01.png",
+  "BGM_Id": 216,
+  "Bundles": {
+    "Entries": [
+      {
+        "Region": 3,
+        "Platform": 2,
+        "Main_Bundle": "ui-uilobbyelement-_mxload-prefabs-2026-03-20_assets_all_1507329698.bundle",
+        "Resource_Bundle_List": [
+          "AssetBundles\\assets-_mx-spinelobbies-ch0307_home-_mxdependency-assets-2026-03-20_assets_all_4149077293.bundle",
+          "AssetBundles\\assets-_mx-spinelobbies-ch0307_home-_mxdependency-textures-2026-03-20_assets_all_333498864.bundle",
+          "AssetBundles\\assets-_mx-spinelobbies-ch0307_home-_mxdependency-textassets-2026-03-20_assets_all_1805020526.bundle",
+          "AssetBundles\\assets-_mx-spinelobbies-ch0307_home-_mxdependency-materials-2026-03-20_assets_all_2551859246.bundle",
+          "AssetBundles\\assets-_mx-spinelobbies-ch0307_home-_mxdependency-timelines-2026-03-20_assets_all_7017975.bundle"
+        ],
+        "Dependency_Bundle_List": [
+          "MX_monoscripts_1020856415.bundle",
+          "assets-_mx-spinelobbies-_mxcommon-_mxdependency-materials-2025-07-02_assets_all_149539334.bundle",
+          "assets-_mx-spinelobbies-_mxcommon-_mxdependency-assets-2025-07-02_assets_all_3657483517.bundle",
+          "prologdepengroup-assets-_mx-uis-atlas-_mxprolog-2025-07-02_assets_all_1592790464.bundle",
+          "prologgroup-assets-_mx-addressableasset-audio-audiomixer-_mxprolog-2025-07-02_assets_all_2266188573.bundle",
+          "assets-_mx-spinelobbies-_mxcommon-_mxdependency-audio-2025-07-02_assets_all_1236838282.bundle",
+          "assets-_mx-spinelobbies-_mxcommon-_mxdependency-textures-2025-07-02_assets_all_1219719739.bundle",
+          "assets-_mx-shaders-_mxdependency-shaders-2025-07-02_assets_all_1512254766.bundle",
+          "prologdepengroup-assets-_mx-shaders-_mxprolog-2025-07-02_assets_all_222426929.bundle",
+          "audio-sfx_ui-_mxload-audio-2025-07-02_assets_all_3611902421.bundle",
+          "prologdepengroup-assets-ngui-resources-shaders-_mxprolog-2025-07-02_assets_all_1067322330.bundle",
+          "audio-sfx_backgroundeffect-_mxload-audio-2025-07-02_assets_all_4023696992.bundle",
+          "assets-_mx-spinelobbies-_mxcommon-_mxdependency-audio-2026-03-01_assets_all_1400695265.bundle",
+          "MX_unitybuiltinshaders_4156112658.bundle"
+        ]
+      }
+    ]
+  },
+  "Audios": {
+    "Entries": [
+      {
+        "Region": 3,
+        "Audio_Path_List": [
+          "MediaResources\\Audio\\VOC_JP\\ch0307_memoriallobby_1_1.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0307_memoriallobby_1_2.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0307_memoriallobby_2_1.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0307_memoriallobby_2_2.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0307_memoriallobby_3_1.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0307_memoriallobby_3_2.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0307_memoriallobby_4_1.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0307_memoriallobby_4_2.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0307_memoriallobby_4_3.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0307_memoriallobby_5_1.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0307_memoriallobby_5_2.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0307_memoriallobby_6_1.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0307_memoriallobby_6_2.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0307_memoriallobby_6_3.ogg"
+        ]
+      }
+    ]
+  },
+  "Subtitles": {
+    "Entries": [
+      {
+        "Region": 3,
+        "CharacterDialogInfo_List": [
+          {
+            "CharacterId": 20057,
+            "CostumeUniqueId": 2005701,
+            "DisplayOrder": 460,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 1,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 2450,
+            "LocalizeKR": "후후.",
+            "LocalizeJP": "ふふっ。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle1",
+            "AnimationName": "Talk_01_M",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 20057,
+            "CostumeUniqueId": 2005701,
+            "DisplayOrder": 470,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 1,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 10550,
+            "LocalizeKR": "뭔가, 생각보다\n더 부끄러운 일이었네요.",
+            "LocalizeJP": "思っていたより……\n気恥ずかしいものですね。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle1",
+            "AnimationName": "",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 20057,
+            "CostumeUniqueId": 2005701,
+            "DisplayOrder": 480,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 2,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 6100,
+            "LocalizeKR": "스스로에게\n솔직해진다는 것은",
+            "LocalizeJP": "自分に対して、\n素直になる……。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle2",
+            "AnimationName": "Talk_02_M",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 20057,
+            "CostumeUniqueId": 2005701,
+            "DisplayOrder": 490,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 2,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 8900,
+            "LocalizeKR": "늘 자기 자신까지\n당황하게\n만드는 것 같아요.",
+            "LocalizeJP": "どうにも\n慣れない感覚です。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle2",
+            "AnimationName": "",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 20057,
+            "CostumeUniqueId": 2005701,
+            "DisplayOrder": 500,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 3,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 5150,
+            "LocalizeKR": "네. 정말 그 말씀\n그대로예요.",
+            "LocalizeJP": "ええ、仰る通りです。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle3",
+            "AnimationName": "Talk_03_M",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 20057,
+            "CostumeUniqueId": 2005701,
+            "DisplayOrder": 510,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 3,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 10350,
+            "LocalizeKR": "하지만 역시,\n필요한 일이었다는\n생각이 들기도 하고요.",
+            "LocalizeJP": "私にとって、必要な\nことだったのだと\n思います。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle3",
+            "AnimationName": "",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 20057,
+            "CostumeUniqueId": 2005701,
+            "DisplayOrder": 520,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 4,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 7200,
+            "LocalizeKR": "여러모로 실례가\n많았습니다. 선생님.",
+            "LocalizeJP": "先生には色々とご迷惑を\nおかけしてしまいました。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle4",
+            "AnimationName": "Talk_04_M",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 20057,
+            "CostumeUniqueId": 2005701,
+            "DisplayOrder": 530,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 4,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 7900,
+            "LocalizeKR": "그렇지만 저는 역시,\n선생님을 만나서",
+            "LocalizeJP": "それでも、先生と\n出会えた私はやはり――",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle4",
+            "AnimationName": "",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 20057,
+            "CostumeUniqueId": 2005701,
+            "DisplayOrder": 540,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 4,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 12350,
+            "LocalizeKR": "정말로, 행운이었다고\n생각해요.",
+            "LocalizeJP": "ええ、本当に幸運だったと\n思っています。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle4",
+            "AnimationName": "",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 20057,
+            "CostumeUniqueId": 2005701,
+            "DisplayOrder": 550,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 5,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 7850,
+            "LocalizeKR": "모든 것은 흘러가고,\n어떤 것은 잊히겠죠.",
+            "LocalizeJP": "すべては流れ、\nいずれ忘れられて\nいくのでしょう。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle5",
+            "AnimationName": "Talk_05_M",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 20057,
+            "CostumeUniqueId": 2005701,
+            "DisplayOrder": 560,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 5,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 13150,
+            "LocalizeKR": "지금 여기에서\n있었던 일도, 어쩌면…….",
+            "LocalizeJP": "今この瞬間でさえ、\nいつかは……。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle5",
+            "AnimationName": "",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 20057,
+            "CostumeUniqueId": 2005701,
+            "DisplayOrder": 570,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 6,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 6000,
+            "LocalizeKR": "하지만, 저는 기억하겠어요.",
+            "LocalizeJP": "ですが、私は\n覚えています。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle6",
+            "AnimationName": "Talk_06_M",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 20057,
+            "CostumeUniqueId": 2005701,
+            "DisplayOrder": 580,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 6,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 4300,
+            "LocalizeKR": "만에 하나 선생님께서\n잊으신다고 해도,\n저는요.",
+            "LocalizeJP": "たとえ先生が\n忘れてしまったとしても。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle6",
+            "AnimationName": "",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 20057,
+            "CostumeUniqueId": 2005701,
+            "DisplayOrder": 590,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 6,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 14700,
+            "LocalizeKR": "정말로 소중한 것들은,\n사라지지 않을 테니까요.",
+            "LocalizeJP": "本当に大切なものは、\n決して失われませんから。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle6",
+            "AnimationName": "",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          }
+        ],
+        "ScenarioScriptExcel_List": [
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 112
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 216,
+            "Sound": "",
+            "Transition": 2482233134,
+            "BGName": 216983805,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#all;hide",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;21667",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 224
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 3727106626,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;[wa:350]― [log=아카네 교복]후후.[/log]",
+            "TextJp": "[wa:350]― [log=아카네 교복]ふふっ。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;2240",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 224
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;― [log=아카네 교복]뭔가, 생각보다[/log]",
+            "TextJp": "― [log=아카네 교복]思っていたより……[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;1990",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 248
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-630];serial;60;― [log=아카네 교복]더 부끄러운 일이었네요.[/log]",
+            "TextJp": "― [log=아카네 교복]気恥ずかしいものですね。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;7847",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 304
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 2354407557,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;[wa:1530]― [log=아카네 교복]스스로에게 [wa:2200]솔직해진다는 것은[/log]",
+            "TextJp": "[wa:1530]― [log=아카네 교복]自分に対して、[wa:2200]素直になる……。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;2300",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 296
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-630];serial;60;― [log=아카네 교복]늘 자기 자신까지 [wa:860]당황하게 만드는 것 같아요.[/log]",
+            "TextJp": "― [log=아카네 교복]どうにも[wa:1100]慣れない感覚です。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;7347",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 216
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "[ns] \"아, 아무래도 평소에는 안 해 본 일일 테니까……?\"",
+            "TextJp": "[ns] \"ま、まあ初めてのことだろうし……？\"",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 288
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 1550572952,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;[wa:520]― [log=아카네 교복]네. [wa:1050]정말 그 말씀 그대로예요.[/log]",
+            "TextJp": "[wa:520]― [log=아카네 교복]ええ、[wa:1330]仰る通りです。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;3330",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 216
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;― [log=아카네 교복]하지만 역시,[/log]",
+            "TextJp": "― [log=아카네 교복]私にとって、[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;1570",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 280
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-630];serial;60;― [log=아카네 교복]필요한 일이었다는 생각이 들기도 하고요.[/log]",
+            "TextJp": "― [log=아카네 교복]必要なことだったのだと思います。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;8063",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 360
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 27085192,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;[wa:530]― [log=아카네 교복]여러모로 [wa:1590]실례가 [wa:860]많았습니다. 선생님.[wa:160] [/log]",
+            "TextJp": "[wa:530]― [log=아카네 교복]先生には[wa:1630]色々と[wa:900]ご迷惑をおかけしてしまいました。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;3470",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 328
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;― [log=아카네 교복]그렇지만 [wa:1910]저는 역시, 선생님을 [wa:3120]만나서[wa:40] [/log]",
+            "TextJp": "― [log=아카네 교복]それでも、[wa:1910]先生と出会えた私は[wa:3240]やはり――[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;2470",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 320
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;― [log=아카네 교복]정말로, [wa:1160]행운이었다고 [wa:1430]생각해요.[wa:280] [/log]",
+            "TextJp": "― [log=아카네 교복]ええ、[wa:1240]本当に[wa:1550]幸運だったと思っています。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;8350",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 248
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 3383106816,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;[wa:1850]― [log=아카네 교복]모든 것은 흘러가고,[/log]",
+            "TextJp": "[wa:1850]― [log=아카네 교복]すべては流れ、[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;2390",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 272
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-630];serial;60;― [log=아카네 교복]어떤 것은 [wa:80]잊히겠죠.[/log]",
+            "TextJp": "― [log=아카네 교복]いずれ[wa:360]忘れられていくのでしょう。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;2670",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 312
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;― [log=아카네 교복]지금 [wa:730]여기에서 있었던 일도, [wa:2630]어쩌면……. [/log]",
+            "TextJp": "― [log=아카네 교복]今[wa:810]この瞬間でさえ、[wa:2830]いつかは……。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;8623",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 296
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 1061558669,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;[wa:1700]― [log=아카네 교복]하지만, [wa:1510]저는 기억하겠어요.[/log]",
+            "TextJp": "[wa:1700]― [log=아카네 교복]ですが、[wa:1550]私は覚えています。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;2630",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 328
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-630];serial;60;― [log=아카네 교복]만에 하나 [wa:410]선생님께서 [wa:270]잊으신다고 해도, 저는요.[/log]",
+            "TextJp": "― [log=아카네 교복]たとえ[wa:530]先生が[wa:470]忘れてしまったとしても。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;2940",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 240
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;― [log=아카네 교복]정말로 소중한 것들은,[/log]",
+            "TextJp": "― [log=아카네 교복]本当に大切なものは、[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;3590",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 248
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-630];serial;60;― [log=아카네 교복]사라지지 않을 테니까요.[/log]",
+            "TextJp": "― [log=아카네 교복]決して失われませんから。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;9257",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 112
+            },
+            "GroupId": 2005705,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 2482233134,
+            "BGName": 1047754314,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#all;hide\n#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          }
+        ]
+      }
+    ]
+  }
+}

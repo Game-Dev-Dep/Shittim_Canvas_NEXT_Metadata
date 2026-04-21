@@ -1,0 +1,1530 @@
+{
+  "Character_Id": 16020,
+  "Dev_Name": "CH0174",
+  "Prefab_Name": "LobbyCH0174",
+  "Texture_Path": "Assets/_MX/AddressableAsset/UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_CH0174_01.png",
+  "BGM_Id": 263,
+  "Bundles": {
+    "Entries": [
+      {
+        "Region": 3,
+        "Platform": 2,
+        "Main_Bundle": "ui-uilobbyelement-_mxload-prefabs-2026-03-24_assets_all_3007739484.bundle",
+        "Resource_Bundle_List": [
+          "AssetBundles\\assets-_mx-spinelobbies-ch0174_home-_mxdependency-assets-2026-03-24_assets_all_2167467188.bundle",
+          "AssetBundles\\assets-_mx-spinelobbies-ch0174_home-_mxdependency-timelines-2026-03-24_assets_all_1245476809.bundle",
+          "AssetBundles\\assets-_mx-spinelobbies-ch0174_home-_mxdependency-materials-2026-03-24_assets_all_1783354927.bundle",
+          "AssetBundles\\assets-_mx-spinelobbies-ch0174_home-_mxdependency-textassets-2026-03-24_assets_all_4105179298.bundle",
+          "AssetBundles\\assets-_mx-spinelobbies-ch0174_home-_mxdependency-textures-2026-03-24_assets_all_3815571691.bundle"
+        ],
+        "Dependency_Bundle_List": [
+          "MX_monoscripts_3078210876.bundle",
+          "assets-_mx-spinelobbies-_mxcommon-_mxdependency-materials-2025-07-02_assets_all_149539334.bundle",
+          "prologdepengroup-assets-_mx-uis-atlas-_mxprolog-2025-07-02_assets_all_2702422138.bundle",
+          "assets-_mx-spinelobbies-_mxcommon-_mxdependency-assets-2025-07-02_assets_all_3657483517.bundle",
+          "MX_unitybuiltinshaders_4156112658.bundle",
+          "assets-_mx-spinelobbies-_mxcommon-_mxdependency-textures-2025-07-02_assets_all_1219719739.bundle",
+          "assets-_mx-spinelobbies-_mxcommon-_mxdependency-audio-2025-07-02_assets_all_1236838282.bundle",
+          "prologgroup-assets-_mx-addressableasset-audio-audiomixer-_mxprolog-2025-07-02_assets_all_2266188573.bundle",
+          "assets-_mx-shaders-_mxdependency-shaders-2025-07-02_assets_all_1569685901.bundle",
+          "prologdepengroup-assets-_mx-shaders-_mxprolog-2025-07-02_assets_all_222426929.bundle",
+          "audio-sfx_ui-_mxload-audio-2025-07-02_assets_all_3611902421.bundle",
+          "prologdepengroup-assets-ngui-resources-shaders-_mxprolog-2025-07-02_assets_all_1067322330.bundle",
+          "assets-_mx-spinelobbies-_mxcommon-_mxdependency-audio-2026-03-24_assets_all_806244233.bundle"
+        ]
+      }
+    ]
+  },
+  "Audios": {
+    "Entries": [
+      {
+        "Region": 3,
+        "Audio_Path_List": [
+          "MediaResources\\Audio\\VOC_JP\\ch0174_memoriallobby_1_1.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0174_memoriallobby_1_2.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0174_memoriallobby_2_1.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0174_memoriallobby_2_2.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0174_memoriallobby_3_1.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0174_memoriallobby_3_2.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0174_memoriallobby_3_3.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0174_memoriallobby_4_1.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0174_memoriallobby_4_2.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0174_memoriallobby_5.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0174_memoriallobby_6_1.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0174_memoriallobby_6_2.ogg"
+        ]
+      }
+    ]
+  },
+  "Subtitles": {
+    "Entries": [
+      {
+        "Region": 3,
+        "CharacterDialogInfo_List": [
+          {
+            "CharacterId": 16020,
+            "CostumeUniqueId": 1602001,
+            "DisplayOrder": 390,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 1,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 5000,
+            "LocalizeKR": "윽…… 쓰고 텁텁해……",
+            "LocalizeJP": "うっ……にが……。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle1",
+            "AnimationName": "Talk_01_M",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 16020,
+            "CostumeUniqueId": 1602001,
+            "DisplayOrder": 400,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 1,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 9833,
+            "LocalizeKR": "오래 방치한 원두라 그런지 맛이 별로네.",
+            "LocalizeJP": "古い豆ってどうしてこう\n美味しくないんだろ。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle1",
+            "AnimationName": "",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 16020,
+            "CostumeUniqueId": 1602001,
+            "DisplayOrder": 410,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 2,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 6830,
+            "LocalizeKR": "로망이라…… 그렇네.",
+            "LocalizeJP": "ロマン……かぁ。\n……そうだね。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle2",
+            "AnimationName": "Talk_02_M",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 16020,
+            "CostumeUniqueId": 1602001,
+            "DisplayOrder": 420,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 2,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 10340,
+            "LocalizeKR": "그 로망이 없었더라면, 여기까지 오지 못했을 테니까.",
+            "LocalizeJP": "ロマンがなかったら、\nここまで来られなかった\nだろうし。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle2",
+            "AnimationName": "",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 16020,
+            "CostumeUniqueId": 1602001,
+            "DisplayOrder": 430,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 3,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 5970,
+            "LocalizeKR": "어릴 때, 비밀 기지가 갖고 싶었던 적은 없었어?",
+            "LocalizeJP": "小さい頃にさ、\n秘密基地に憧れたりしなかった？",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle3",
+            "AnimationName": "Talk_03_M",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 16020,
+            "CostumeUniqueId": 1602001,
+            "DisplayOrder": 440,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 3,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 6000,
+            "LocalizeKR": "하지만 막상 실제로 만들어 보니 생각과 많이 다르더라고.",
+            "LocalizeJP": "でも、実際に作ってみると\n思ってたのと全然違って……。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle3",
+            "AnimationName": "",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 16020,
+            "CostumeUniqueId": 1602001,
+            "DisplayOrder": 450,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 3,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 10200,
+            "LocalizeKR": "좁고, 불편하고, 할 수 있는 것도 그다지 없고……",
+            "LocalizeJP": "狭いし、あんまり\nできることもなくてさ。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle3",
+            "AnimationName": "",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 16020,
+            "CostumeUniqueId": 1602001,
+            "DisplayOrder": 460,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 4,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 8700,
+            "LocalizeKR": "꿈꿔왔던 현실은 언제나 그런 모습이었던 것 같아.",
+            "LocalizeJP": "なんか……\n夢と現実を突きつけられた\nみたいだったんだよね。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle4",
+            "AnimationName": "Talk_04_M",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 16020,
+            "CostumeUniqueId": 1602001,
+            "DisplayOrder": 470,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 4,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 10470,
+            "LocalizeKR": "이상적인 어른의 모습도, SRT의 생활도.",
+            "LocalizeJP": "理想の大人も、SRTの生活も。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle4",
+            "AnimationName": "",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 16020,
+            "CostumeUniqueId": 1602001,
+            "DisplayOrder": 480,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 5,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 4500,
+            "LocalizeKR": "하지만 그 로망 덕분이었을까.",
+            "LocalizeJP": "でも、\nだからこそっていうのかな。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle5",
+            "AnimationName": "Talk_05_M",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 16020,
+            "CostumeUniqueId": 1602001,
+            "DisplayOrder": 490,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 5,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 13000,
+            "LocalizeKR": "현실의 불편함도 이제는 기묘한 풍미로 느껴져.",
+            "LocalizeJP": "現実がどんな形でも、\n味があるって思うように\nなったっていうか。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle5",
+            "AnimationName": "",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 16020,
+            "CostumeUniqueId": 1602001,
+            "DisplayOrder": 500,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 6,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 9000,
+            "LocalizeKR": "선생님. 로망을 잔뜩 탄 싸구려 커피의 맛은 어때?",
+            "LocalizeJP": "先生はさ、ロマンが詰まった\n古いコーヒー、どう思う？",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle6",
+            "AnimationName": "Talk_06_M",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 16020,
+            "CostumeUniqueId": 1602001,
+            "DisplayOrder": 510,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 6,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 13170,
+            "LocalizeKR": "후훗.\n다시 한번, 나의 세계에 온 걸 환영해.",
+            "LocalizeJP": "ふふっ……改めまして、\n私の世界へようこそ。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle6",
+            "AnimationName": "",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          }
+        ],
+        "ScenarioScriptExcel_List": [
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 112
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 263,
+            "Sound": "",
+            "Transition": 2482233134,
+            "BGName": 2398041593,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#all;hide",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;21333",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 264
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 1096985590,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;[wa:1590]― [log=오토기]윽…… [wa:1130]쓰고 텁텁해……[/log]",
+            "TextJp": "[wa:1590]― [log=오토기]うっ……[wa:1250]にが……。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;2290",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 280
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-630];serial;60;― [log=오토기]오래 방치한 원두라 그런지 맛이 별로네.[/log]",
+            "TextJp": "― [log=오토기]古い豆ってどうしてこう美味しくないんだろ。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;8843",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 344
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "[ns9] \"나는 그리 나쁘진 않은 것 같아.\"\n[ns10] \"이렇게 비 내리는 날, 밖에서 마시니 로망도 있고.\"",
+            "TextJp": "[ns9] \"私はそれほど悪くないと思うよ。\"\n[ns10] \"こうして雨の日に、外で飲むからロマンもあるし。\"",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 104
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 9,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;100",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 104
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 10,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;100",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 248
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 3534377241,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;[wa:740]― [log=오토기]로망[wa:976]이라…… [/log]",
+            "TextJp": "[wa:740]― [log=오토기]ロマン……[wa:936]かぁ。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;2384",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 200
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-630];serial;60;― [log=오토기]그렇네.[wa:80] [/log]",
+            "TextJp": "― [log=오토기]……そうだね。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;2608",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 224
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;― [log=오토기]그 로망이 없었더라면,[/log]",
+            "TextJp": "― [log=오토기]ロマンがなかったら、[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;1462",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 272
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-630];serial;60;― [log=오토기]여기까지 [wa:314]오지 못했을 테니까.[/log]",
+            "TextJp": "― [log=오토기]ここまで[wa:434]来られなかっただろうし。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;7143",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 216
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 1623914815,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;[wa:930]― [log=오토기]어릴 때,[/log]",
+            "TextJp": "[wa:930]― [log=오토기]小さい頃にさ、[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;1390",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 256
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-630];serial;60;― [log=오토기]비밀 기지가 갖고 싶었던 적은 없었어?[/log]",
+            "TextJp": "― [log=오토기]秘密基地に憧れたりしなかった？[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;3060",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 184
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;― [log=오토기]하지만[/log]",
+            "TextJp": "― [log=오토기]でも、[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;980",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 296
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-630];serial;60;― [log=오토기]막상 실제로 만들어 보니 생각과 많이 다르더라고.[/log]",
+            "TextJp": "― [log=오토기]実際に作ってみると思ってたのと全然違って……。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;4210",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 200
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;― [log=오토기]좁고, 불편하고, [/log]",
+            "TextJp": "― [log=오토기]狭いし、[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;1180",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 256
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-630];serial;60;― [log=오토기]할 수 있는 것도 그다지 없고……[/log]",
+            "TextJp": "― [log=오토기]あんまりできることもなくてさ。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;7757",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 104
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 1129094700,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 208
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;[wa:2500]― [log=오토기]꿈꿔왔던 [/log]",
+            "TextJp": "[wa:2500]― [log=오토기]なんか……[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;1670",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 288
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-630];serial;60;― [log=오토기]현실은 언제나 그런 모습이었던 것 같아. [/log]",
+            "TextJp": "― [log=오토기]夢と現実を突きつけられたみたいだったんだよね。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;3760",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 216
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;― [log=오토기]이상적인 어른의 모습도, [/log]",
+            "TextJp": "― [log=오토기]理想の大人も、[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;1740",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 200
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-630];serial;60;― [log=오토기]SRT의 생활도.[/log]",
+            "TextJp": "― [log=오토기]SRTの生活も。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;7957",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 208
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 3583804715,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;[wa:1630]― [log=오토기]하지만[/log]",
+            "TextJp": "[wa:1630]― [log=오토기]でも、[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;1220",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 232
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-630];serial;60;― [log=오토기]그 로망 덕분이었을까. [/log]",
+            "TextJp": "― [log=오토기]だからこそっていうのかな。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;2530",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 224
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;― [log=오토기]현실의 불편함도[wa:40] [/log]",
+            "TextJp": "― [log=오토기]現実がどんな形でも、[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;1740",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 272
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-630];serial;60;― [log=오토기]이제는 기묘한 풍미로 느껴져.[wa:120] [/log]",
+            "TextJp": "― [log=오토기]味があるって思うようになったっていうか。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;8720",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 320
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 2516900049,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;[wa:1900]― [log=오토기]선생님. [wa:1450]로망을 잔뜩 탄 싸구려 커피의[/log]",
+            "TextJp": "[wa:1900]― [log=오토기]先生はさ、[wa:1450]ロマンが詰まった古いコーヒー、[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;2360",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 192
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-630];serial;60;― [log=오토기]맛은 어때?[/log]",
+            "TextJp": "― [log=오토기]どう思う？[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;2590",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 192
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;― [log=오토기]후훗. [/log]",
+            "TextJp": "― [log=오토기]ふふっ……[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;1620",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 280
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-630];serial;60;― [log=오토기]다시 한번, [wa:1540]나의 세계에 온 걸 환영해.[/log]",
+            "TextJp": "― [log=오토기]改めまして、[wa:1600]私の世界へようこそ。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;8987",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 112
+            },
+            "GroupId": 1602008,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 1122508889,
+            "BGName": 1047754314,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST\n#all;hide",
+            "TextJp": "",
+            "VoiceId": 0
+          }
+        ]
+      }
+    ]
+  }
+}

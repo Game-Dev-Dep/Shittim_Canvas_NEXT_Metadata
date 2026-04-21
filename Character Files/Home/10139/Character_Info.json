@@ -1,0 +1,1030 @@
+{
+  "Character_Id": 10139,
+  "Dev_Name": "CH0172",
+  "Prefab_Name": "LobbyCH0172",
+  "Texture_Path": "Assets/_MX/AddressableAsset/UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_CH0172_01.png",
+  "BGM_Id": 267,
+  "Bundles": {
+    "Entries": [
+      {
+        "Region": 3,
+        "Platform": 2,
+        "Main_Bundle": "ui-uilobbyelement-_mxload-prefabs-2026-03-24_assets_all_662595085.bundle",
+        "Resource_Bundle_List": [
+          "AssetBundles\\assets-_mx-spinelobbies-ch0172_home-_mxdependency-assets-2026-03-24_assets_all_2466621533.bundle",
+          "AssetBundles\\assets-_mx-spinelobbies-ch0172_home-_mxdependency-materials-2026-03-24_assets_all_2051525239.bundle",
+          "AssetBundles\\assets-_mx-spinelobbies-ch0172_home-_mxdependency-timelines-2026-03-24_assets_all_1663118782.bundle",
+          "AssetBundles\\assets-_mx-spinelobbies-ch0172_home-_mxdependency-textures-2026-03-24_assets_all_2231084774.bundle",
+          "AssetBundles\\assets-_mx-spinelobbies-ch0172_home-_mxdependency-textassets-2026-03-24_assets_all_3274096650.bundle"
+        ],
+        "Dependency_Bundle_List": [
+          "MX_monoscripts_3078210876.bundle",
+          "assets-_mx-spinelobbies-_mxcommon-_mxdependency-materials-2025-07-02_assets_all_149539334.bundle",
+          "assets-_mx-spinelobbies-ch0302_home-_mxdependency-materials-2025-07-02_assets_all_43693649.bundle",
+          "assets-_mx-spinelobbies-_mxcommon-_mxdependency-meshes-2025-07-02_assets_all_1351026336.bundle",
+          "assets-_mx-spinelobbies-_mxcommon-_mxdependency-assets-2026-03-24_assets_all_4102004322.bundle",
+          "prologdepengroup-assets-_mx-uis-atlas-_mxprolog-2025-07-02_assets_all_2702422138.bundle",
+          "assets-_mx-spinelobbies-_mxcommon-_mxdependency-assets-2025-07-02_assets_all_3657483517.bundle",
+          "MX_unitybuiltinshaders_4156112658.bundle",
+          "assets-_mx-spinelobbies-_mxcommon-_mxdependency-textures-2025-07-02_assets_all_1219719739.bundle",
+          "assets-_mx-spinelobbies-_mxcommon-_mxdependency-audio-2025-07-02_assets_all_1236838282.bundle",
+          "prologgroup-assets-_mx-addressableasset-audio-audiomixer-_mxprolog-2025-07-02_assets_all_2266188573.bundle",
+          "assets-_mx-shaders-_mxdependency-shaders-2025-07-02_assets_all_1569685901.bundle",
+          "prologdepengroup-assets-_mx-shaders-_mxprolog-2025-07-02_assets_all_222426929.bundle",
+          "audio-sfx_ui-_mxload-audio-2025-07-02_assets_all_3611902421.bundle",
+          "prologdepengroup-assets-ngui-resources-shaders-_mxprolog-2025-07-02_assets_all_1067322330.bundle",
+          "assets-_mx-spinelobbies-_mxcommon-_mxdependency-audio-2026-03-24_assets_all_806244233.bundle",
+          "audio-sfx_backgroundeffect-_mxload-audio-2026-03-24_assets_all_2874063316.bundle",
+          "audio-sfx_scenarioeffect-_mxload-audio-2025-07-02_assets_all_4238666793.bundle",
+          "packages-com.unity.render-pipelines.universal-runtime-materials-_mxdependency-materials-2025-07-02_assets_all_3006197376.bundle"
+        ]
+      }
+    ]
+  },
+  "Audios": {
+    "Entries": [
+      {
+        "Region": 3,
+        "Audio_Path_List": [
+          "MediaResources\\Audio\\VOC_JP\\ch0172_memoriallobby_1_1.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0172_memoriallobby_1_2.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0172_memoriallobby_2.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0172_memoriallobby_3_1.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0172_memoriallobby_3_2.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0172_memoriallobby_4_1.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0172_memoriallobby_4_2.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0172_memoriallobby_5_1.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0172_memoriallobby_5_2.ogg"
+        ]
+      }
+    ]
+  },
+  "Subtitles": {
+    "Entries": [
+      {
+        "Region": 3,
+        "CharacterDialogInfo_List": [
+          {
+            "CharacterId": 10139,
+            "CostumeUniqueId": 1013901,
+            "DisplayOrder": 380,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 1,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 3450,
+            "LocalizeKR": "후후, 잘 익었네요.",
+            "LocalizeJP": "ふふ、よく揚がっていますね。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle1",
+            "AnimationName": "Talk_01_M",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 10139,
+            "CostumeUniqueId": 1013901,
+            "DisplayOrder": 390,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 1,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 10450,
+            "LocalizeKR": "잘 부풀어 오른 것이,\n좋은 유부가 될 것 같아요.",
+            "LocalizeJP": "ふっくらしていて……\n仕上がりが楽しみです。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle1",
+            "AnimationName": "",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 10139,
+            "CostumeUniqueId": 1013901,
+            "DisplayOrder": 400,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 2,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 8400,
+            "LocalizeKR": "아, 아직은 안 돼요.",
+            "LocalizeJP": "あ、まだダメですよ。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle2",
+            "AnimationName": "Talk_02_M",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 10139,
+            "CostumeUniqueId": 1013901,
+            "DisplayOrder": 410,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 3,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 2530,
+            "LocalizeKR": "이 뒤에 한 번 더\n튀겨야 하거든요.",
+            "LocalizeJP": "この後、もう1回\n揚げるんですから。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle3",
+            "AnimationName": "Talk_03_M",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 10139,
+            "CostumeUniqueId": 1013901,
+            "DisplayOrder": 420,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 3,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 5290,
+            "LocalizeKR": "처음에는 낮은 온도에서,\n그리고 높은 온도에서\n한 번 더 튀겨야만",
+            "LocalizeJP": "最初は低い温度で。\n次に高い温度で揚げると、",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle3",
+            "AnimationName": "",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 10139,
+            "CostumeUniqueId": 1013901,
+            "DisplayOrder": 430,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 3,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 9180,
+            "LocalizeKR": "수분이 모두 빠져서,\n맛있는 유부가 된답니다.",
+            "LocalizeJP": "水分が抜けて美味しい\n油揚げになるんです。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle3",
+            "AnimationName": "",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 10139,
+            "CostumeUniqueId": 1013901,
+            "DisplayOrder": 440,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 4,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 5180,
+            "LocalizeKR": "네. 유부는 정말 시간과\n손이 많이 드는 요리에요.",
+            "LocalizeJP": "油揚げって実は、\nすごく時間と手間のかかる\n料理なんですよ。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle4",
+            "AnimationName": "Talk_04_M",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 10139,
+            "CostumeUniqueId": 1013901,
+            "DisplayOrder": 450,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 4,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 13820,
+            "LocalizeKR": "그래서 옛날에는 한 해의\n풍작과 안녕을 빌기 위한 공물로\n유부를 만들었다고 해요.",
+            "LocalizeJP": "それこそ昔は、\n1年の豊作と安寧を願う\nお供え物だったんだとか。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle4",
+            "AnimationName": "",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 10139,
+            "CostumeUniqueId": 1013901,
+            "DisplayOrder": 460,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 5,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 9500,
+            "LocalizeKR": "제가 바라는 것은 주변 사람들의\n행복과 안녕뿐이지만.",
+            "LocalizeJP": "私の願いは、\n周りのみんなが幸せで、\n平穏無事に過ごせること。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle5",
+            "AnimationName": "Talk_05_M",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 10139,
+            "CostumeUniqueId": 1013901,
+            "DisplayOrder": 470,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 5,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 13500,
+            "LocalizeKR": "이 유부에 눌러 담은\n제 마음이 전해진다면……\n기쁘겠네요.",
+            "LocalizeJP": "油揚げに込めた私の気持ちが\n伝わってくれたら……\n嬉しいですね。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle5",
+            "AnimationName": "",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          }
+        ],
+        "ScenarioScriptExcel_List": [
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 112
+            },
+            "GroupId": 1013908,
+            "SelectionGroup": 0,
+            "BGMId": 267,
+            "Sound": "",
+            "Transition": 1122508889,
+            "BGName": 2652683941,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#all;hide",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1013908,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;24000",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 280
+            },
+            "GroupId": 1013908,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 4076883748,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;[wa:390]― [log=니코]후후, [wa:1430]잘 익었네요.[wa:120] [/log]",
+            "TextJp": "[wa:390]― [log=니코]ふふ、[wa:1470]よく揚がっていますね。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1013908,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;2540",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 320
+            },
+            "GroupId": 1013908,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-630];serial;60;― [log=니코]잘 [wa:310] 부풀어 오른 것이, [wa:1730]좋은 유부가 될 것 같아요.[/log]",
+            "TextJp": "― [log=니코]ふっ[wa:310]くらしていて……[wa:1890]仕上がりが楽しみです。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1013908,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;6673",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1013908,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 168
+            },
+            "GroupId": 1013908,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "[ns] \"먹음직스러워 보이는 걸.\"",
+            "TextJp": "[ns] \"これは……おいしそうだ。\"",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 256
+            },
+            "GroupId": 1013908,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 4116024982,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;[wa:860]― [log=니코]아, [wa:800]아직은 안 돼요.[/log]",
+            "TextJp": "[wa:860]― [log=니코]あ、[wa:880]まだダメですよ。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1013908,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;7113",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1013908,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 288
+            },
+            "GroupId": 1013908,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 326930359,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;[wa:480]― [log=니코]이 뒤에 [wa:410]한 번 더 튀겨야 하거든요.[/log]",
+            "TextJp": "[wa:480]― [log=니코]この後、[wa:530]もう1回揚げるんですから。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1013908,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;2332",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1013908,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 216
+            },
+            "GroupId": 1013908,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;― [log=니코]처음에는 낮은 온도에서,[/log]",
+            "TextJp": "― [log=니코]最初は低い温度で。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1013908,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;2478",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 392
+            },
+            "GroupId": 1013908,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-630];serial;60;― [log=니코]그리고 높은 온도에서 한 번 더 튀겨야만 수분이 모두 빠져서, [wa:1160]맛있는 유부가 된답니다.[wa:200] [/log]",
+            "TextJp": "― [log=니코]次に高い温度で揚げると、[wa:2080]水分が抜けて美味しい油揚げになるんです。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1013908,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;7540",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1013908,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 224
+            },
+            "GroupId": 1013908,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "[ns] \"유부는 꽤나 손이 많이 가는 요리였구나……\"",
+            "TextJp": "[ns] \"油揚げって、こんなに手間がかかるんだね……。\"",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 208
+            },
+            "GroupId": 1013908,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 1953585302,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;[wa:1220]― [log=니코]네. [/log]",
+            "TextJp": "[wa:1220]― [log=니코]油揚げって実は、[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1013908,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;1590",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 280
+            },
+            "GroupId": 1013908,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-630];serial;60;― [log=니코]유부는 정말 시간과 손이 많이 드는 요리예요.[/log]",
+            "TextJp": "― [log=니코]すごく時間と手間のかかる料理なんですよ。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1013908,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;3610",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1013908,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 200
+            },
+            "GroupId": 1013908,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;― [log=니코]그래서 옛날에는 [/log]",
+            "TextJp": "― [log=니코]それこそ昔は、[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1013908,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;1700",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 328
+            },
+            "GroupId": 1013908,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-630];serial;60;― [log=니코]한 해의 풍작과 안녕을 빌기 위한 공물로 [wa:1620]유부를 만들었다고 해요.[/log]",
+            "TextJp": "― [log=니코]1年の豊作と安寧を願う[wa:2620]お供え物だったんだとか。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1013908,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;6620",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1013908,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 224
+            },
+            "GroupId": 1013908,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 2924462415,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;[wa:2050]― [log=니코]제가 바라는 것은[/log]",
+            "TextJp": "[wa:2050]― [log=니코]私の願いは、[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1013908,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;1870",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 304
+            },
+            "GroupId": 1013908,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-630];serial;60;― [log=니코]주변 사람들의 행복과 [wa:2260]안녕뿐이지만.[wa:160] [/log]",
+            "TextJp": "― [log=니코]周りのみんなが幸せで、[wa:2420]平穏無事に過ごせること。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1013908,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;3400",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1013908,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 288
+            },
+            "GroupId": 1013908,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;― [log=니코]이 유부에 눌러 담은 제 마음이 전해진다면…… [/log]",
+            "TextJp": "― [log=니코]油揚げに込めた私の気持ちが伝わってくれたら……[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1013908,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;3380",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 192
+            },
+            "GroupId": 1013908,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-630];serial;60;― [log=니코]기쁘겠네요.[/log]",
+            "TextJp": "― [log=니코]嬉しいですね。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1013908,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;8200",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1013908,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 104
+            },
+            "GroupId": 1013908,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 2243764445,
+            "BGName": 1047754314,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#all;hide",
+            "TextJp": "",
+            "VoiceId": 0
+          }
+        ]
+      }
+    ]
+  }
+}

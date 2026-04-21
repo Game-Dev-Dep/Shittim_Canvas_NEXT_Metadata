@@ -1306,6 +1306,21 @@
             "Value": "CH0307"
         },
         {
+            "Type": 1,
+            "Character_Id": 10139,
+            "Value": "CH0172"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10140,
+            "Value": "CH0173"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 16020,
+            "Value": "CH0174"
+        },
+        {
             "Type": 3,
             "Character_Id": 1100001,
             "Value": "SC11000_01"
@@ -4248,6 +4263,39 @@
             "Nicknames": [],
             "School": 6,
             "Club": 2
+        },
+        "CH0172": {
+            "Name_Dev": "CH0172",
+            "Name_SC": "妮可",
+            "Name_TC": "仁子",
+            "Name_Jp": "ニコ",
+            "Name_En": "Niko",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 11,
+            "Club": 57
+        },
+        "CH0173": {
+            "Name_Dev": "CH0173",
+            "Name_SC": "胡桃",
+            "Name_TC": "胡桃",
+            "Name_Jp": "クルミ",
+            "Name_En": "Kurumi",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 11,
+            "Club": 57
+        },
+        "CH0174": {
+            "Name_Dev": "CH0174",
+            "Name_SC": "音葵",
+            "Name_TC": "御伽",
+            "Name_Jp": "オトギ",
+            "Name_En": "Otogi",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 11,
+            "Club": 57
         },
         "SC11000_01": {
             "Name_Dev": "SC11000_01",

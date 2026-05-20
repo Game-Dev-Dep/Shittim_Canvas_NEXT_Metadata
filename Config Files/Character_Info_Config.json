@@ -1321,6 +1321,11 @@
             "Value": "CH0174"
         },
         {
+            "Type": 1,
+            "Character_Id": 20058,
+            "Value": "CH0076"
+        },
+        {
             "Type": 3,
             "Character_Id": 1100001,
             "Value": "SC11000_01"
@@ -4296,6 +4301,17 @@
             "Nicknames": [],
             "School": 11,
             "Club": 57
+        },
+        "CH0076": {
+            "Name_Dev": "CH0076",
+            "Name_SC": "绘里香",
+            "Name_TC": "繪里香",
+            "Name_Jp": "エリカ",
+            "Name_En": "Erika",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 4,
+            "Club": 48
         },
         "SC11000_01": {
             "Name_Dev": "SC11000_01",

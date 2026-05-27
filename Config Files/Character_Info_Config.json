@@ -1326,6 +1326,16 @@
             "Value": "CH0076"
         },
         {
+            "Type": 1,
+            "Character_Id": 20059,
+            "Value": "CH0246"
+        },
+        {
+            "Type": 1,
+            "Character_Id": 10141,
+            "Value": "CH0247"
+        },
+        {
             "Type": 3,
             "Character_Id": 1100001,
             "Value": "SC11000_01"
@@ -4312,6 +4322,28 @@
             "Nicknames": [],
             "School": 4,
             "Club": 48
+        },
+        "CH0246": {
+            "Name_Dev": "CH0246",
+            "Name_SC": "睦月（礼服）",
+            "Name_TC": "無月（禮服）",
+            "Name_Jp": "ムツキ(ドレス)",
+            "Name_En": "Mutsuki(Dress)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 4,
+            "Club": 21
+        },
+        "CH0247": {
+            "Name_Dev": "CH0247",
+            "Name_SC": "春香（礼服）",
+            "Name_TC": "遙香（禮服）",
+            "Name_Jp": "ハルカ(ドレス)",
+            "Name_En": "Haruka(Dress)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 4,
+            "Club": 21
         },
         "SC11000_01": {
             "Name_Dev": "SC11000_01",

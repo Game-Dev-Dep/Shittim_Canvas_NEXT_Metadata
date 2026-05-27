@@ -1,0 +1,807 @@
+{
+  "Character_Id": 10141,
+  "Dev_Name": "CH0247",
+  "Prefab_Name": "LobbyCH0247",
+  "Texture_Path": "Assets/_MX/AddressableAsset/UIs/01_Common/08_Lobbyillust/Lobbyillust_Icon_CH0247_01.png",
+  "BGM_Id": 265,
+  "Bundles": {
+    "Entries": [
+      {
+        "Region": 3,
+        "Platform": 2,
+        "Main_Bundle": "ui-uilobbyelement-_mxload-prefabs-2026-04-27_assets_all_2899548002.bundle",
+        "Resource_Bundle_List": [
+          "AssetBundles\\assets-_mx-spinelobbies-ch0247_home-_mxdependency-assets-2026-04-27_assets_all_1365236276.bundle",
+          "AssetBundles\\assets-_mx-spinelobbies-ch0247_home-_mxdependency-materials-2026-04-27_assets_all_815203103.bundle",
+          "AssetBundles\\assets-_mx-spinelobbies-ch0247_home-_mxdependency-textassets-2026-04-27_assets_all_944622564.bundle",
+          "AssetBundles\\assets-_mx-spinelobbies-ch0247_home-_mxdependency-textures-2026-04-27_assets_all_2155092987.bundle",
+          "AssetBundles\\assets-_mx-spinelobbies-ch0247_home-_mxdependency-timelines-2026-04-27_assets_all_3229907839.bundle"
+        ],
+        "Dependency_Bundle_List": [
+          "MX_monoscripts_639519170.bundle",
+          "assets-_mx-spinelobbies-_mxcommon-_mxdependency-materials-2025-07-02_assets_all_149539334.bundle",
+          "prologgroup-assets-_mx-addressableasset-audio-audiomixer-_mxprolog-2025-07-02_assets_all_2673925038.bundle",
+          "assets-_mx-spinelobbies-_mxcommon-_mxdependency-assets-2025-07-02_assets_all_3657483517.bundle",
+          "assets-_mx-spinelobbies-_mxcommon-_mxdependency-audio-2026-04-27_assets_all_1929767579.bundle",
+          "assets-_mx-spinelobbies-_mxcommon-_mxdependency-audio-2025-07-02_assets_all_1236838282.bundle",
+          "assets-_mx-spinelobbies-_mxcommon-_mxdependency-textures-2025-07-02_assets_all_1219719739.bundle",
+          "assets-_mx-shaders-_mxdependency-shaders-2025-07-02_assets_all_2584508817.bundle",
+          "prologdepengroup-assets-_mx-shaders-_mxprolog-2025-07-02_assets_all_222426929.bundle",
+          "audio-sfx_backgroundeffect-_mxload-audio-2026-04-27_assets_all_53070903.bundle",
+          "prologdepengroup-assets-ngui-resources-shaders-_mxprolog-2025-07-02_assets_all_1067322330.bundle",
+          "MX_unitybuiltinshaders_4156112658.bundle",
+          "assets-_mx-spinelobbies-_mxcommon-_mxdependency-assets-2026-04-27_assets_all_1713427874.bundle",
+          "prologdepengroup-assets-_mx-spinelobbies-_mxcommon-_mxprolog-2025-07-02_assets_all_578882636.bundle",
+          "prologdepengroup-assets-_mx-uis-atlas-_mxprolog-2025-07-02_assets_all_1905149562.bundle",
+          "prologdepengroup-assets-_mx-addressableasset-audio-_mxprolog-2025-07-02_assets_all_656424305.bundle"
+        ]
+      }
+    ]
+  },
+  "Audios": {
+    "Entries": [
+      {
+        "Region": 3,
+        "Audio_Path_List": [
+          "MediaResources\\Audio\\VOC_JP\\ch0247_memoriallobby_1_1.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0247_memoriallobby_1_2.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0247_memoriallobby_2_1.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0247_memoriallobby_2_2.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0247_memoriallobby_3_1.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0247_memoriallobby_3_2.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0247_memoriallobby_4_1.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0247_memoriallobby_4_2.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0247_memoriallobby_5_1.ogg",
+          "MediaResources\\Audio\\VOC_JP\\ch0247_memoriallobby_5_2.ogg"
+        ]
+      }
+    ]
+  },
+  "Subtitles": {
+    "Entries": [
+      {
+        "Region": 3,
+        "CharacterDialogInfo_List": [
+          {
+            "CharacterId": 10141,
+            "CostumeUniqueId": 1014101,
+            "DisplayOrder": 340,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 1,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 9449,
+            "LocalizeKR": "……잡초를 좋아하는 건,\n아름다워서가 아니에요.",
+            "LocalizeJP": "……雑草が好きなのは、\n美しいからじゃ、ないです。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle1",
+            "AnimationName": "Talk_01_M",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 10141,
+            "CostumeUniqueId": 1014101,
+            "DisplayOrder": 350,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 1,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 11518,
+            "LocalizeKR": "저는, 잡초의 꿋꿋함이 좋아요.",
+            "LocalizeJP": "私は、雑草の硬いところが\n好きなんです。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle1",
+            "AnimationName": "",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 10141,
+            "CostumeUniqueId": 1014101,
+            "DisplayOrder": 360,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 2,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 6962,
+            "LocalizeKR": "어떤 척박한 곳이라도\n강하게 뿌리내리는,\n끈질김이…….",
+            "LocalizeJP": "どんな荒地でも\n強く根を張る、粘り強さ――",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle2",
+            "AnimationName": "Talk_02_M",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 10141,
+            "CostumeUniqueId": 1014101,
+            "DisplayOrder": 370,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 2,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 10591,
+            "LocalizeKR": "그것이야말로, 저의 이상.",
+            "LocalizeJP": "それこそが、私の理想。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle2",
+            "AnimationName": "",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 10141,
+            "CostumeUniqueId": 1014101,
+            "DisplayOrder": 380,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 3,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 3614,
+            "LocalizeKR": "아름다운 모습일 필요는 없어요.",
+            "LocalizeJP": "美しくある必要はありません。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle3",
+            "AnimationName": "Talk_03_M",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 10141,
+            "CostumeUniqueId": 1014101,
+            "DisplayOrder": 390,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 3,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 8553,
+            "LocalizeKR": "빛나지 않아도 괜찮아요.",
+            "LocalizeJP": "輝かなくてもいいんです。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle3",
+            "AnimationName": "",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 10141,
+            "CostumeUniqueId": 1014101,
+            "DisplayOrder": 400,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 4,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 10317,
+            "LocalizeKR": "소중한 사람들과,\n그저 함께할 수 있다면…….",
+            "LocalizeJP": "大切な人と、\nただ過ごせるなら……。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle4",
+            "AnimationName": "Talk_04_M",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 10141,
+            "CostumeUniqueId": 1014101,
+            "DisplayOrder": 410,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 4,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 12183,
+            "LocalizeKR": "서, 선생님과\n함께 할 수 있다면……",
+            "LocalizeJP": "せ、先生と\n一緒にいられるのなら……。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle4",
+            "AnimationName": "",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 10141,
+            "CostumeUniqueId": 1014101,
+            "DisplayOrder": 420,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 5,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 7668,
+            "LocalizeKR": "저는, 그걸로…….",
+            "LocalizeJP": "私は、それで……。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle5",
+            "AnimationName": "Talk_05_M",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          },
+          {
+            "CharacterId": 10141,
+            "CostumeUniqueId": 1014101,
+            "DisplayOrder": 430,
+            "DialogCategory": 8,
+            "DialogCondition": 0,
+            "GroupId": 5,
+            "ActionName": "",
+            "DialogType": 0,
+            "Duration": 9499,
+            "LocalizeKR": "……좋아, 해요. ",
+            "LocalizeJP": "……好き、なんです。",
+            "VoiceIds": [],
+            "CollectionVisible": false,
+            "CVCollectionType": 0,
+            "LocalizeCVGroup": "CVGroup_UILobbySpecial_Idle5",
+            "AnimationName": "",
+            "Anniversary": 0,
+            "StartDate": "",
+            "EndDate": "",
+            "ApplyPosition": false,
+            "PosX": 0.0,
+            "PosY": 0.0,
+            "UnlockFavorRank": 0,
+            "UnlockEquipWeapon": false
+          }
+        ],
+        "ScenarioScriptExcel_List": [
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 112
+            },
+            "GroupId": 1014106,
+            "SelectionGroup": 0,
+            "BGMId": 265,
+            "Sound": "",
+            "Transition": 3785883235,
+            "BGName": 2072947418,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#all;hide",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1014106,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;23667",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 384
+            },
+            "GroupId": 1014106,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 1856575458,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;[wa:1237]― [log=하루카 드레스]……잡초를 좋아하는 건, [wa:2713]아름다워서가 [wa:2130]아니에요.[/log]",
+            "TextJp": "[wa:1237]― [log=하루카 드레스]……雑草が好きなのは、[wa:2833]美しいからじゃ、[wa:2090]ないです。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1014106,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;3089",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 328
+            },
+            "GroupId": 1014106,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-630];serial;60;― [log=하루카 드레스]저는, [wa:1631]잡초의 [wa:938]꿋꿋함이 좋아요.[wa:120] [/log]",
+            "TextJp": "― [log=하루카 드레스]私は、[wa:1671]雑草の[wa:978]硬いところが好きなんです。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1014106,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;7889",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1014106,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 384
+            },
+            "GroupId": 1014106,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 1654650831,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;[wa:637]― [log=하루카 드레스]어떤 척박한 곳이라도 [wa:1571]강하게 뿌리내리는, [wa:1382]끈질김이…….[/log]",
+            "TextJp": "[wa:637]― [log=하루카 드레스]どんな荒地でも[wa:1771]強く根を張る、[wa:1582]粘り強さ――[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1014106,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;2972",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 272
+            },
+            "GroupId": 1014106,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-630];serial;60;― [log=하루카 드레스]그것이야말로, [wa:1846]저의 이상.[/log]",
+            "TextJp": "― [log=하루카 드레스]それこそが、[wa:1966]私の理想。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1014106,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;7925",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1014106,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 296
+            },
+            "GroupId": 1014106,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 2027524463,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;[wa:613]― [log=하루카 드레스]아름다운 모습일 필요는 없어요.[/log]",
+            "TextJp": "[wa:613]― [log=하루카 드레스]美しくある必要はありません。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1014106,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;2961",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 272
+            },
+            "GroupId": 1014106,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-630];serial;60;― [log=하루카 드레스]빛나지 않아도 [wa:1265]괜찮아요. [/log]",
+            "TextJp": "― [log=하루카 드레스]輝かなくても[wa:1465]いいんです。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1014106,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;6428",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1014106,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 344
+            },
+            "GroupId": 1014106,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 1117765326,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;[wa:1243]― [log=하루카 드레스]소중한 사람들과, [wa:2195]그저 함께할 수 있다면…….[/log]",
+            "TextJp": "[wa:1243]― [log=하루카 드레스]大切な人と、[wa:2355]ただ過ごせるなら……。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1014106,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;6579",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 320
+            },
+            "GroupId": 1014106,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-630];serial;60;― [log=하루카 드레스]서, [wa:801]선생님과 [wa:1930]함께 할 수 있다면…… [/log]",
+            "TextJp": "― [log=하루카 드레스]せ、[wa:961]先生と[wa:2010]一緒にいられるのなら……。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1014106,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;8252",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1014106,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 280
+            },
+            "GroupId": 1014106,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 526998369,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-530];serial;60;[wa:3643]― [log=하루카 드레스]저는, [wa:1641]그걸로…….[/log]",
+            "TextJp": "[wa:3643]― [log=하루카 드레스]私は、[wa:1681]それで……。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1014106,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;2504",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 264
+            },
+            "GroupId": 1014106,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#st;[-1200,-630];serial;60;― [log=하루카 드레스]……좋아, [wa:1875]해요.[wa:40] [/log]",
+            "TextJp": "― [log=하루카 드레스]……好き、[wa:1915]なんです。[/log]",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1014106,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#wait;7004",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 96
+            },
+            "GroupId": 1014106,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#clearST",
+            "TextJp": "",
+            "VoiceId": 0
+          },
+          {
+            "ByteBuffer": {
+              "Position": 0,
+              "Length": 104
+            },
+            "GroupId": 1014106,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 2482233134,
+            "BGName": 1047754314,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#all;hide",
+            "TextJp": "",
+            "VoiceId": 0
+          }
+        ]
+      }
+    ]
+  }
+}

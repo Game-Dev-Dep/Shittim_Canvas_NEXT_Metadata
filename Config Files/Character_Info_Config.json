@@ -1336,6 +1336,11 @@
             "Value": "CH0247"
         },
         {
+            "Type": 1,
+            "Character_Id": 10142,
+            "Value": "CH0303"
+        },
+        {
             "Type": 3,
             "Character_Id": 1100001,
             "Value": "SC11000_01"
@@ -4344,6 +4349,17 @@
             "Nicknames": [],
             "School": 4,
             "Club": 21
+        },
+        "CH0303": {
+            "Name_Dev": "CH0303",
+            "Name_SC": "名草（泳装）",
+            "Name_TC": "名草（泳裝）",
+            "Name_Jp": "ナグサ(水着)",
+            "Name_En": "Nagusa(swimsuit)",
+            "Name_KR": "",
+            "Nicknames": [],
+            "School": 1,
+            "Club": 47
         },
         "SC11000_01": {
             "Name_Dev": "SC11000_01",
